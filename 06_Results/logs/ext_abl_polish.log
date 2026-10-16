@@ -1,0 +1,39 @@
+== af-2: method=abl_polish 20 runs, start=simplex, seed=12345
+  [af-2]    2/20  %Good so far   0.0   best f 240820.79312   elapsed    2.1s
+  [af-2]    4/20  %Good so far   0.0   best f 240602.23020   elapsed    4.0s
+  [af-2]    6/20  %Good so far   0.0   best f 240602.23020   elapsed    6.0s
+  [af-2]    8/20  %Good so far   0.0   best f 240602.23020   elapsed    7.8s
+  [af-2]   10/20  %Good so far   0.0   best f 240602.23020   elapsed   10.3s
+  [af-2]   12/20  %Good so far   0.0   best f 240602.23020   elapsed   12.7s
+  [af-2]   14/20  %Good so far   0.0   best f 240602.23020   elapsed   16.1s
+  [af-2]   16/20  %Good so far   0.0   best f 240602.23020   elapsed   17.9s
+  [af-2]   18/20  %Good so far   0.0   best f 240602.23020   elapsed   19.7s
+  [af-2]   20/20  %Good so far   0.0   best f 240602.23020   elapsed   22.7s
+== af-6-f: method=abl_polish 20 runs, start=simplex, seed=12345
+  [af-6-f]    2/20  %Good so far   0.0   best f 3105.17680   elapsed    6.8s
+  [af-6-f]    4/20  %Good so far   0.0   best f 3095.98656   elapsed   39.8s
+  [af-6-f]    6/20  %Good so far   0.0   best f 3095.98656   elapsed   49.7s
+  [af-6-f]    8/20  %Good so far   0.0   best f 3095.98656   elapsed   63.0s
+  [af-6-f]   10/20  %Good so far   0.0   best f 3095.98656   elapsed   69.5s
+  [af-6-f]   12/20  %Good so far   0.0   best f 3095.98656   elapsed   81.4s
+  [af-6-f]   14/20  %Good so far   0.0   best f 3095.98656   elapsed   85.9s
+  [af-6-f]   16/20  %Good so far   0.0   best f 3095.98656   elapsed   94.4s
+  [af-6-f]   18/20  %Good so far   5.6   best f 3074.73609   elapsed  115.3s
+  [af-6-f]   20/20  %Good so far   5.0   best f 3074.73609   elapsed  136.5s
+== af-7b-fs: method=abl_polish 20 runs, start=simplex, seed=12345
+  [af-7b-fs]    2/20  %Good so far 100.0   best f 130318.76635   elapsed   75.5s
+  [af-7b-fs]    4/20  %Good so far 100.0   best f 130308.74059   elapsed  239.2s
+  [af-7b-fs]    6/20  %Good so far 100.0   best f 130294.89872   elapsed  331.5s
+  [af-7b-fs]    8/20  %Good so far  87.5   best f 130294.89872   elapsed  401.4s
+  [af-7b-fs]   10/20  %Good so far  90.0   best f 130294.89872   elapsed  510.3s
+  [af-7b-fs]   12/20  %Good so far  91.7   best f 130294.89872   elapsed  598.8s
+  [af-7b-fs]   14/20  %Good so far  92.9   best f 130294.89872   elapsed  689.5s
+  [af-7b-fs]   16/20  %Good so far  93.8   best f 130294.89872   elapsed  795.4s
+  [af-7b-fs]   18/20  %Good so far  94.4   best f 130294.89872   elapsed  890.3s
+  [af-7b-fs]   20/20  %Good so far  95.0   best f 130294.89872   elapsed 1016.6s
+
+Instance    Ti[s]   %Feas   %Good      It  ETiGood        best f  | paper Ti  %Feas  %Good     It
+-------------------------------------------------------------------------------------------------
+af-2         1.14   100.0     0.0   114.8      inf  240602.23020  |      1.3  100.0   19.4   58.7
+af-6-f       6.82    70.0     5.0   159.3    136.5    3074.73609  |      4.5   78.4    4.0   47.7
+af-7b-fs    50.83   100.0    95.0   112.2     53.5  130294.89872  |     14.7   99.0   52.6   48.5

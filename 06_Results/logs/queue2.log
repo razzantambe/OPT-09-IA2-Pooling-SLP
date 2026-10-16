@@ -1,0 +1,636 @@
+== af-1: method=proposed 20 runs, start=simplex, seed=12345
+  [af-1] run  0 rc   f=296.63903 feas=1 it=67 t=0.41s  incumbent=296.63903
+  [af-1] run  1 rc   f=296.89636 feas=1 it=25 t=0.29s  incumbent=296.63903
+  [af-1] run  2 rc   f=297.02513 feas=1 it=107 t=0.56s  incumbent=296.63903
+  [af-1] run  3 ils  f=296.63903 feas=1 it=56 t=0.66s  incumbent=296.63903
+  [af-1] run  4 ils  f=296.63442 feas=1 it=86 t=0.75s  incumbent=296.63442
+  [af-1] run  5 ils  f=296.63442 feas=1 it=54 t=0.74s  incumbent=296.63442
+  [af-1] run  6 ils  f=296.63442 feas=1 it=41 t=0.57s  incumbent=296.63442
+  [af-1] run  7 ils  f=296.63442 feas=1 it=41 t=0.68s  incumbent=296.63442
+  [af-1] run  8 ils  f=296.63442 feas=1 it=38 t=0.57s  incumbent=296.63442
+  [af-1] run  9 ils  f=296.63442 feas=1 it=48 t=0.57s  incumbent=296.63442
+  [af-1] run 10 ils  f=296.63442 feas=1 it=38 t=0.48s  incumbent=296.63442
+  [af-1] run 11 rc   f=296.45139 feas=1 it=22 t=0.34s  incumbent=296.45139
+  [af-1] run 12 ils  f=296.45139 feas=1 it=82 t=0.60s  incumbent=296.45139
+  [af-1] run 13 ils  f=296.45139 feas=1 it=80 t=0.69s  incumbent=296.45139
+  [af-1] run 14 ils  f=296.45139 feas=1 it=146 t=0.76s  incumbent=296.45139
+  [af-1] run 15 ils  f=296.45139 feas=1 it=83 t=0.64s  incumbent=296.45139
+  [af-1] run 16 ils  f=296.45139 feas=1 it=99 t=0.71s  incumbent=296.45139
+  [af-1] run 17 ils  f=296.45139 feas=1 it=41 t=0.51s  incumbent=296.45139
+  [af-1] run 18 rc   f=296.45139 feas=1 it=101 t=0.61s  incumbent=296.45139
+  [af-1] run 19 ils  f=296.45139 feas=1 it=85 t=0.63s  incumbent=296.45139
+== af-3: method=proposed 20 runs, start=simplex, seed=12345
+  [af-3] run  0 rc   f=123786.45614 feas=1 it=58 t=1.05s  incumbent=123786.45614
+  [af-3] run  1 rc   f=123769.08674 feas=1 it=67 t=0.80s  incumbent=123769.08674
+  [af-3] run  2 rc   f=123436.39322 feas=1 it=32 t=0.85s  incumbent=123436.39322
+  [af-3] run  3 ils  f=123437.80102 feas=1 it=41 t=2.29s  incumbent=123436.39322
+  [af-3] run  4 ils  f=123436.39743 feas=1 it=40 t=1.93s  incumbent=123436.39322
+  [af-3] run  5 ils  f=123436.39322 feas=1 it=41 t=2.07s  incumbent=123436.39322
+  [af-3] run  6 ils  f=123436.39322 feas=1 it=43 t=2.02s  incumbent=123436.39322
+  [af-3] run  7 ils  f=123437.29673 feas=1 it=44 t=2.14s  incumbent=123436.39322
+  [af-3] run  8 ils  f=123437.29673 feas=1 it=45 t=1.75s  incumbent=123436.39322
+  [af-3] run  9 rc   f=123437.29646 feas=1 it=24 t=0.92s  incumbent=123436.39322
+  [af-3] run 10 ils  f=123436.39310 feas=1 it=38 t=2.66s  incumbent=123436.39322
+  [af-3] run 11 ils  f=123436.39322 feas=1 it=41 t=2.11s  incumbent=123436.39322
+  [af-3] run 12 ils  f=123436.39743 feas=1 it=41 t=2.59s  incumbent=123436.39322
+  [af-3] run 13 ils  f=122319.93558 feas=1 it=121 t=3.08s  incumbent=122319.93558
+  [af-3] run 14 ils  f=123772.08211 feas=1 it=351 t=3.35s  incumbent=122319.93558
+  [af-3] run 15 ils  f=122316.17415 feas=1 it=46 t=2.63s  incumbent=122316.17415
+  [af-3] run 16 ils  f=123436.39743 feas=1 it=42 t=2.52s  incumbent=122316.17415
+  [af-3] run 17 ils  f=123774.52662 feas=1 it=103 t=2.61s  incumbent=122316.17415
+  [af-3] run 18 ils  f=122330.33019 feas=1 it=48 t=2.67s  incumbent=122316.17415
+  [af-3] run 19 ils  f=123639.11777 feas=1 it=162 t=3.03s  incumbent=122316.17415
+== af-4: method=proposed 20 runs, start=simplex, seed=12345
+  [af-4] run  0 rc   f=186506.98595 feas=1 it=28 t=1.17s  incumbent=186506.98595
+  [af-4] run  1 rc   f=186871.92240 feas=1 it=400 t=3.41s  incumbent=186506.98595
+  [af-4] run  2 rc   f=186446.94673 feas=1 it=126 t=2.09s  incumbent=186446.94673
+  [af-4] run  3 ils  f=193193.00277 feas=0 it=440 t=8.50s  incumbent=186446.94673
+  [af-4] run  4 ils  f=186446.94674 feas=1 it=101 t=3.99s  incumbent=186446.94673
+  [af-4] run  5 ils  f=186446.94673 feas=1 it=138 t=3.24s  incumbent=186446.94673
+  [af-4] run  6 ils  f=192311.86971 feas=0 it=440 t=9.06s  incumbent=186446.94673
+  [af-4] run  7 ils  f=186446.94673 feas=1 it=128 t=3.53s  incumbent=186446.94673
+  [af-4] run  8 ils  f=186494.40060 feas=1 it=59 t=3.50s  incumbent=186446.94673
+  [af-4] run  9 rc   f=198875.98146 feas=0 it=400 t=7.72s  incumbent=186446.94673
+  [af-4] run 10 ils  f=186446.94674 feas=1 it=81 t=3.86s  incumbent=186446.94673
+  [af-4] run 11 ils  f=186466.86021 feas=1 it=42 t=3.58s  incumbent=186446.94673
+  [af-4] run 12 ils  f=186446.94674 feas=1 it=101 t=4.50s  incumbent=186446.94673
+  [af-4] run 13 ils  f=194861.37003 feas=0 it=440 t=8.73s  incumbent=186446.94673
+  [af-4] run 14 ils  f=186466.86021 feas=1 it=42 t=4.26s  incumbent=186446.94673
+  [af-4] run 15 ils  f=186446.94673 feas=1 it=129 t=4.01s  incumbent=186446.94673
+  [af-4] run 16 rc   f=186525.03240 feas=1 it=167 t=1.70s  incumbent=186446.94673
+  [af-4] run 17 ils  f=186446.94674 feas=1 it=79 t=3.42s  incumbent=186446.94673
+  [af-4] run 18 ils  f=186466.86021 feas=1 it=44 t=3.52s  incumbent=186446.94673
+  [af-4] run 19 ils  f=186446.94673 feas=1 it=133 t=5.02s  incumbent=186446.94673
+== af-5: method=proposed 20 runs, start=simplex, seed=12345
+  [af-5] run  0 rc   f=124099.79964 feas=1 it=326 t=2.46s  incumbent=124099.79964
+  [af-5] run  1 rc   f=124041.00912 feas=1 it=61 t=0.98s  incumbent=124041.00912
+  [af-5] run  2 rc   f=124086.67198 feas=1 it=293 t=2.88s  incumbent=124041.00912
+  [af-5] run  3 ils  f=124143.80852 feas=1 it=154 t=3.24s  incumbent=124041.00912
+  [af-5] run  4 ils  f=124103.11683 feas=1 it=163 t=2.69s  incumbent=124041.00912
+  [af-5] run  5 ils  f=124041.01819 feas=1 it=58 t=2.32s  incumbent=124041.00912
+  [af-5] run  6 ils  f=124041.00912 feas=1 it=73 t=2.79s  incumbent=124041.00912
+  [af-5] run  7 ils  f=124095.18914 feas=1 it=440 t=5.96s  incumbent=124041.00912
+  [af-5] run  8 ils  f=124032.26226 feas=1 it=214 t=3.27s  incumbent=124032.26226
+  [af-5] run  9 ils  f=124034.80775 feas=1 it=74 t=2.46s  incumbent=124032.26226
+  [af-5] run 10 ils  f=124032.59029 feas=1 it=88 t=4.27s  incumbent=124032.26226
+  [af-5] run 11 ils  f=124013.88602 feas=1 it=139 t=4.44s  incumbent=124013.88602
+  [af-5] run 12 ils  f=124083.88516 feas=1 it=52 t=2.43s  incumbent=124013.88602
+  [af-5] run 13 ils  f=124006.43072 feas=1 it=75 t=3.19s  incumbent=124006.43072
+  [af-5] run 14 ils  f=124006.43072 feas=1 it=75 t=2.65s  incumbent=124006.43072
+  [af-5] run 15 ils  f=124006.40679 feas=1 it=93 t=2.87s  incumbent=124006.40679
+  [af-5] run 16 ils  f=124006.40679 feas=1 it=96 t=2.73s  incumbent=124006.40679
+  [af-5] run 17 ils  f=124032.22277 feas=1 it=260 t=3.83s  incumbent=124006.40679
+  [af-5] run 18 ils  f=124007.33736 feas=1 it=43 t=2.77s  incumbent=124006.40679
+  [af-5] run 19 ils  f=124006.40679 feas=1 it=46 t=2.37s  incumbent=124006.40679
+== af-5-fs: method=proposed 20 runs, start=simplex, seed=12345
+  [af-5-fs] run  0 rc   f=119027.86849 feas=1 it=195 t=3.82s  incumbent=119027.86849
+  [af-5-fs] run  1 rc   f=119027.82215 feas=1 it=400 t=7.13s  incumbent=119027.82215
+  [af-5-fs] run  2 rc   f=119030.36241 feas=1 it=126 t=3.00s  incumbent=119027.82215
+  [af-5-fs] run  3 ils  f=119035.44821 feas=1 it=163 t=5.30s  incumbent=119027.82215
+  [af-5-fs] run  4 ils  f=119022.72441 feas=1 it=190 t=5.01s  incumbent=119022.72441
+  [af-5-fs] run  5 ils  f=119027.88249 feas=1 it=373 t=7.50s  incumbent=119022.72441
+  [af-5-fs] run  6 ils  f=119035.44820 feas=1 it=133 t=4.70s  incumbent=119022.72441
+  [af-5-fs] run  7 ils  f=119021.91393 feas=1 it=303 t=5.94s  incumbent=119021.91393
+  [af-5-fs] run  8 ils  f=119035.10483 feas=1 it=440 t=8.95s  incumbent=119021.91393
+  [af-5-fs] run  9 ils  f=119021.91391 feas=1 it=288 t=5.49s  incumbent=119021.91393
+  [af-5-fs] run 10 ils  f=119021.91392 feas=1 it=214 t=5.73s  incumbent=119021.91393
+  [af-5-fs] run 11 ils  f=119022.96292 feas=1 it=196 t=5.19s  incumbent=119021.91393
+  [af-5-fs] run 12 ils  f=119022.72441 feas=1 it=154 t=4.91s  incumbent=119021.91393
+  [af-5-fs] run 13 ils  f=119021.91390 feas=1 it=181 t=5.76s  incumbent=119021.91393
+  [af-5-fs] run 14 rc   f=119120.06344 feas=1 it=49 t=2.45s  incumbent=119021.91393
+  [af-5-fs] run 15 ils  f=119021.91390 feas=1 it=194 t=4.64s  incumbent=119021.91393
+  [af-5-fs] run 16 ils  f=119036.82786 feas=1 it=427 t=7.57s  incumbent=119021.91393
+  [af-5-fs] run 17 ils  f=119028.17838 feas=1 it=154 t=4.66s  incumbent=119021.91393
+  [af-5-fs] run 18 ils  f=119021.91390 feas=1 it=268 t=5.96s  incumbent=119021.91393
+  [af-5-fs] run 19 ils  f=119024.41123 feas=1 it=155 t=5.02s  incumbent=119021.91393
+== af-6-fs: method=proposed 20 runs, start=simplex, seed=12345
+  [af-6-fs] run  0 rc   f=2930.92813 feas=1 it=93 t=7.76s  incumbent=2930.92813
+  [af-6-fs] run  1 rc   f=2930.29845 feas=1 it=100 t=15.00s  incumbent=2930.29845
+  [af-6-fs] run  2 rc   f=2932.42497 feas=1 it=134 t=12.87s  incumbent=2930.29845
+  [af-6-fs] run  3 ils  f=2928.49860 feas=1 it=76 t=11.94s  incumbent=2928.49860
+  [af-6-fs] run  4 ils  f=2928.44308 feas=1 it=41 t=11.72s  incumbent=2928.44308
+  [af-6-fs] run  5 ils  f=2929.50353 feas=1 it=72 t=13.83s  incumbent=2928.44308
+  [af-6-fs] run  6 ils  f=2927.53592 feas=1 it=72 t=14.57s  incumbent=2927.53592
+  [af-6-fs] run  7 ils  f=2927.53351 feas=1 it=49 t=12.61s  incumbent=2927.53351
+  [af-6-fs] run  8 ils  f=2938.81310 feas=1 it=86 t=13.11s  incumbent=2927.53351
+  [af-6-fs] run  9 ils  f=2959.85329 feas=1 it=440 t=27.61s  incumbent=2927.53351
+  [af-6-fs] run 10 ils  f=2927.53850 feas=1 it=45 t=11.17s  incumbent=2927.53351
+  [af-6-fs] run 11 ils  f=2929.18567 feas=1 it=45 t=8.58s  incumbent=2927.53351
+  [af-6-fs] run 12 ils  f=2932.96241 feas=1 it=127 t=15.14s  incumbent=2927.53351
+  [af-6-fs] run 13 ils  f=2937.15639 feas=1 it=149 t=12.45s  incumbent=2927.53351
+  [af-6-fs] run 14 rc   f=2942.19502 feas=1 it=88 t=8.50s  incumbent=2927.53351
+  [af-6-fs] run 15 ils  f=2933.18949 feas=1 it=295 t=16.53s  incumbent=2927.53351
+  [af-6-fs] run 16 ils  f=2922.56229 feas=1 it=48 t=9.43s  incumbent=2922.56229
+  [af-6-fs] run 17 ils  f=2934.76619 feas=1 it=306 t=17.25s  incumbent=2922.56229
+  [af-6-fs] run 18 ils  f=3005.65202 feas=1 it=440 t=25.51s  incumbent=2922.56229
+  [af-6-fs] run 19 ils  f=2941.94574 feas=1 it=178 t=13.17s  incumbent=2922.56229
+== af-7: method=proposed 20 runs, start=simplex, seed=12345
+  [af-7] run  0 rc   f=152813.65584 feas=1 it=69 t=4.71s  incumbent=152813.65584
+  [af-7] run  1 rc   f=152789.41502 feas=1 it=182 t=4.72s  incumbent=152789.41502
+  [af-7] run  2 rc   f=152584.48316 feas=1 it=18 t=3.01s  incumbent=152584.48316
+  [af-7] run  3 ils  f=152584.48319 feas=1 it=41 t=9.17s  incumbent=152584.48316
+  [af-7] run  4 ils  f=152584.48502 feas=1 it=40 t=8.37s  incumbent=152584.48316
+  [af-7] run  5 ils  f=152847.28805 feas=1 it=67 t=8.52s  incumbent=152584.48316
+  [af-7] run  6 ils  f=152584.48281 feas=1 it=43 t=7.89s  incumbent=152584.48316
+  [af-7] run  7 ils  f=152803.27489 feas=1 it=79 t=9.97s  incumbent=152584.48316
+  [af-7] run  8 ils  f=153051.47512 feas=1 it=157 t=9.95s  incumbent=152584.48316
+  [af-7] run  9 rc   f=152415.72778 feas=1 it=18 t=2.74s  incumbent=152415.72778
+  [af-7] run 10 ils  f=153274.69345 feas=1 it=44 t=7.65s  incumbent=152415.72778
+  [af-7] run 11 ils  f=152569.07435 feas=1 it=308 t=11.83s  incumbent=152415.72778
+  [af-7] run 12 ils  f=153194.58500 feas=1 it=178 t=11.33s  incumbent=152415.72778
+  [af-7] run 13 ils  f=151445.58938 feas=1 it=118 t=8.71s  incumbent=151445.58938
+  [af-7] run 14 ils  f=152953.10844 feas=1 it=122 t=9.45s  incumbent=151445.58938
+  [af-7] run 15 ils  f=152532.38773 feas=1 it=135 t=8.08s  incumbent=151445.58938
+  [af-7] run 16 ils  f=151446.12504 feas=1 it=238 t=9.32s  incumbent=151445.58938
+  [af-7] run 17 ils  f=151783.14422 feas=1 it=120 t=9.88s  incumbent=151445.58938
+  [af-7] run 18 ils  f=151456.63297 feas=1 it=42 t=6.68s  incumbent=151445.58938
+  [af-7] run 19 ils  f=151456.63297 feas=1 it=69 t=10.01s  incumbent=151445.58938
+== af-7b: method=proposed 20 runs, start=simplex, seed=12345
+  [af-7b] run  0 rc   f=147492.32034 feas=1 it=305 t=11.77s  incumbent=147492.32034
+  [af-7b] run  1 rc   f=147554.80462 feas=1 it=43 t=6.95s  incumbent=147492.32034
+  [af-7b] run  2 rc   f=147640.15015 feas=1 it=310 t=10.15s  incumbent=147492.32034
+  [af-7b] run  3 ils  f=147492.32976 feas=1 it=319 t=16.37s  incumbent=147492.32034
+  [af-7b] run  4 ils  f=147440.03190 feas=1 it=295 t=14.95s  incumbent=147440.03190
+  [af-7b] run  5 ils  f=147455.98799 feas=1 it=220 t=11.50s  incumbent=147440.03190
+  [af-7b] run  6 ils  f=147472.24033 feas=1 it=70 t=9.05s  incumbent=147440.03190
+  [af-7b] run  7 ils  f=149768.72253 feas=1 it=440 t=17.06s  incumbent=147440.03190
+  [af-7b] run  8 ils  f=147428.16332 feas=1 it=73 t=9.88s  incumbent=147428.16332
+  [af-7b] run  9 ils  f=147391.03044 feas=1 it=140 t=8.87s  incumbent=147391.03044
+  [af-7b] run 10 ils  f=147376.47138 feas=1 it=221 t=9.23s  incumbent=147376.47138
+  [af-7b] run 11 ils  f=147428.05856 feas=1 it=116 t=9.14s  incumbent=147376.47138
+  [af-7b] run 12 ils  f=149543.49579 feas=1 it=440 t=16.22s  incumbent=147376.47138
+  [af-7b] run 13 ils  f=147356.81166 feas=1 it=41 t=13.83s  incumbent=147356.81166
+  [af-7b] run 14 ils  f=147394.45522 feas=1 it=98 t=10.22s  incumbent=147356.81166
+  [af-7b] run 15 ils  f=147375.05870 feas=1 it=60 t=7.41s  incumbent=147356.81166
+  [af-7b] run 16 ils  f=147500.70925 feas=1 it=77 t=9.80s  incumbent=147356.81166
+  [af-7b] run 17 ils  f=147356.77254 feas=1 it=43 t=10.22s  incumbent=147356.77254
+  [af-7b] run 18 ils  f=147356.77254 feas=1 it=42 t=11.01s  incumbent=147356.77254
+  [af-7b] run 19 ils  f=147356.77254 feas=1 it=40 t=9.38s  incumbent=147356.77254
+
+Instance    Ti[s]   %Feas   %Good      It  ETiGood        best f  | paper Ti  %Feas  %Good     It
+-------------------------------------------------------------------------------------------------
+af-1         0.59   100.0   100.0    67.0      0.6     296.45139  |      0.5  100.0   79.0   38.0
+af-3         2.16   100.0    15.0    71.4     14.4  122316.17415  |      1.3   99.2   20.0   50.6
+af-4         4.44    80.0    60.0   175.9      7.4  186446.94673  |      1.7   98.5   19.8   49.1
+af-5         3.03   100.0   100.0   141.2      3.0  124006.40679  |      1.5   99.8  100.0   53.9
+af-5-fs      5.44   100.0   100.0   230.2      5.4  119021.91390  |      1.7  100.0   99.6   61.2
+af-6-fs     13.94   100.0     5.0   144.2    278.9    2922.56229  |      6.5   95.0    5.2   47.0
+af-7         8.11   100.0    20.0   104.4     40.5  151445.58938  |      4.6   99.0   20.4   61.5
+af-7b       11.16   100.0    85.0   169.7     13.1  147356.77254  |     12.3   98.8   71.8   72.0
+== af-1: method=proposed 20 runs, start=simplex, seed=2024
+  [af-1] run  0 rc   f=296.68589 feas=1 it=87 t=0.51s  incumbent=296.68589
+  [af-1] run  1 rc   f=296.58966 feas=1 it=28 t=0.35s  incumbent=296.58966
+  [af-1] run  2 rc   f=296.45139 feas=1 it=64 t=0.47s  incumbent=296.45139
+  [af-1] run  3 ils  f=296.45139 feas=1 it=87 t=0.59s  incumbent=296.45139
+  [af-1] run  4 ils  f=296.45139 feas=1 it=102 t=0.80s  incumbent=296.45139
+  [af-1] run  5 ils  f=296.45139 feas=1 it=77 t=0.60s  incumbent=296.45139
+  [af-1] run  6 ils  f=296.45139 feas=1 it=85 t=0.64s  incumbent=296.45139
+  [af-1] run  7 ils  f=296.44604 feas=1 it=45 t=0.45s  incumbent=296.44604
+  [af-1] run  8 ils  f=296.44604 feas=1 it=38 t=0.57s  incumbent=296.44604
+  [af-1] run  9 ils  f=296.44604 feas=1 it=39 t=0.53s  incumbent=296.44604
+  [af-1] run 10 ils  f=296.44604 feas=1 it=44 t=0.58s  incumbent=296.44604
+  [af-1] run 11 ils  f=296.44604 feas=1 it=39 t=0.51s  incumbent=296.44604
+  [af-1] run 12 ils  f=296.44604 feas=1 it=41 t=0.49s  incumbent=296.44604
+  [af-1] run 13 ils  f=296.44604 feas=1 it=40 t=0.59s  incumbent=296.44604
+  [af-1] run 14 rc   f=296.45139 feas=1 it=43 t=0.38s  incumbent=296.44604
+  [af-1] run 15 ils  f=296.44604 feas=1 it=45 t=0.57s  incumbent=296.44604
+  [af-1] run 16 ils  f=296.44604 feas=1 it=38 t=0.57s  incumbent=296.44604
+  [af-1] run 17 ils  f=296.44604 feas=1 it=39 t=0.58s  incumbent=296.44604
+  [af-1] run 18 ils  f=296.44604 feas=1 it=51 t=0.66s  incumbent=296.44604
+  [af-1] run 19 ils  f=296.44604 feas=1 it=41 t=0.55s  incumbent=296.44604
+== af-3: method=proposed 20 runs, start=simplex, seed=2024
+  [af-3] run  0 rc   f=123437.80104 feas=1 it=30 t=0.86s  incumbent=123437.80104
+  [af-3] run  1 rc   f=122316.17419 feas=1 it=23 t=0.92s  incumbent=122316.17419
+  [af-3] run  2 rc   f=122357.03685 feas=1 it=400 t=4.12s  incumbent=122316.17419
+  [af-3] run  3 ils  f=122267.31483 feas=1 it=42 t=2.45s  incumbent=122267.31483
+  [af-3] run  4 ils  f=123436.39742 feas=1 it=40 t=1.98s  incumbent=122267.31483
+  [af-3] run  5 ils  f=122267.31483 feas=1 it=45 t=2.31s  incumbent=122267.31483
+  [af-3] run  6 ils  f=123581.27989 feas=1 it=93 t=2.65s  incumbent=122267.31483
+  [af-3] run  7 ils  f=123774.52662 feas=1 it=167 t=3.13s  incumbent=122267.31483
+  [af-3] run  8 ils  f=123509.80720 feas=1 it=43 t=1.82s  incumbent=122267.31483
+  [af-3] run  9 ils  f=122319.20911 feas=1 it=50 t=1.65s  incumbent=122267.31483
+  [af-3] run 10 rc   f=123978.84497 feas=1 it=65 t=1.11s  incumbent=122267.31483
+  [af-3] run 11 ils  f=124114.88592 feas=1 it=259 t=3.83s  incumbent=122267.31483
+  [af-3] run 12 ils  f=122269.38866 feas=1 it=57 t=2.04s  incumbent=122267.31483
+  [af-3] run 13 ils  f=122316.17419 feas=1 it=44 t=2.01s  incumbent=122267.31483
+  [af-3] run 14 ils  f=123437.29673 feas=1 it=47 t=3.08s  incumbent=122267.31483
+  [af-3] run 15 ils  f=122267.31482 feas=1 it=49 t=2.46s  incumbent=122267.31483
+  [af-3] run 16 ils  f=122267.31483 feas=1 it=40 t=2.77s  incumbent=122267.31483
+  [af-3] run 17 rc   f=123775.74516 feas=1 it=37 t=1.08s  incumbent=122267.31483
+  [af-3] run 18 ils  f=123777.51633 feas=1 it=208 t=2.85s  incumbent=122267.31483
+  [af-3] run 19 ils  f=123509.43650 feas=1 it=135 t=2.30s  incumbent=122267.31483
+== af-4: method=proposed 20 runs, start=simplex, seed=2024
+  [af-4] run  0 rc   f=186508.63257 feas=1 it=28 t=0.93s  incumbent=186508.63257
+  [af-4] run  1 rc   f=186893.21065 feas=1 it=35 t=4.73s  incumbent=186508.63257
+  [af-4] run  2 rc   f=186506.01696 feas=1 it=400 t=2.54s  incumbent=186506.01696
+  [af-4] run  3 ils  f=186571.96628 feas=1 it=40 t=3.69s  incumbent=186506.01696
+  [af-4] run  4 ils  f=186446.94673 feas=1 it=134 t=3.94s  incumbent=186446.94673
+  [af-4] run  5 ils  f=186466.86021 feas=1 it=43 t=3.14s  incumbent=186446.94673
+  [af-4] run  6 ils  f=186466.86021 feas=1 it=44 t=3.26s  incumbent=186446.94673
+  [af-4] run  7 ils  f=186446.94674 feas=1 it=83 t=3.67s  incumbent=186446.94673
+  [af-4] run  8 ils  f=192617.48659 feas=0 it=440 t=10.49s  incumbent=186446.94673
+  [af-4] run  9 ils  f=186446.94673 feas=1 it=127 t=3.75s  incumbent=186446.94673
+  [af-4] run 10 ils  f=186446.94673 feas=1 it=132 t=4.25s  incumbent=186446.94673
+  [af-4] run 11 rc   f=186481.21196 feas=1 it=16 t=1.38s  incumbent=186446.94673
+  [af-4] run 12 ils  f=186446.94674 feas=1 it=79 t=3.36s  incumbent=186446.94673
+  [af-4] run 13 ils  f=186446.94673 feas=1 it=135 t=3.67s  incumbent=186446.94673
+  [af-4] run 14 ils  f=186466.86021 feas=1 it=44 t=3.22s  incumbent=186446.94673
+  [af-4] run 15 ils  f=193637.15238 feas=0 it=440 t=8.47s  incumbent=186446.94673
+  [af-4] run 16 ils  f=186466.86021 feas=1 it=42 t=2.78s  incumbent=186446.94673
+  [af-4] run 17 ils  f=186466.86021 feas=1 it=44 t=3.30s  incumbent=186446.94673
+  [af-4] run 18 rc   f=186611.97431 feas=1 it=22 t=0.92s  incumbent=186446.94673
+  [af-4] run 19 ils  f=186466.86021 feas=1 it=50 t=3.72s  incumbent=186446.94673
+== af-5: method=proposed 20 runs, start=simplex, seed=2024
+  [af-5] run  0 rc   f=124124.64751 feas=1 it=43 t=0.84s  incumbent=124124.64751
+  [af-5] run  1 rc   f=124123.08986 feas=1 it=36 t=0.98s  incumbent=124123.08986
+  [af-5] run  2 rc   f=124019.77102 feas=1 it=81 t=1.58s  incumbent=124019.77102
+  [af-5] run  3 ils  f=124019.76629 feas=1 it=61 t=2.00s  incumbent=124019.77102
+  [af-5] run  4 ils  f=124045.48523 feas=1 it=55 t=3.03s  incumbent=124019.77102
+  [af-5] run  5 ils  f=124032.00222 feas=1 it=217 t=3.46s  incumbent=124019.77102
+  [af-5] run  6 ils  f=124075.12227 feas=1 it=60 t=2.90s  incumbent=124019.77102
+  [af-5] run  7 ils  f=124019.76629 feas=1 it=52 t=1.81s  incumbent=124019.77102
+  [af-5] run  8 ils  f=124006.44597 feas=1 it=82 t=2.38s  incumbent=124006.44597
+  [af-5] run  9 ils  f=124006.43072 feas=1 it=68 t=3.08s  incumbent=124006.43072
+  [af-5] run 10 ils  f=124006.40679 feas=1 it=103 t=3.08s  incumbent=124006.40679
+  [af-5] run 11 ils  f=124006.40679 feas=1 it=108 t=3.17s  incumbent=124006.40679
+  [af-5] run 12 ils  f=124072.74619 feas=1 it=140 t=2.74s  incumbent=124006.40679
+  [af-5] run 13 ils  f=124041.00912 feas=1 it=71 t=2.37s  incumbent=124006.40679
+  [af-5] run 14 ils  f=124116.97207 feas=1 it=262 t=3.75s  incumbent=124006.40679
+  [af-5] run 15 ils  f=124047.33755 feas=1 it=133 t=2.68s  incumbent=124006.40679
+  [af-5] run 16 ils  f=124030.85829 feas=1 it=96 t=2.23s  incumbent=124006.40679
+  [af-5] run 17 rc   f=124049.42551 feas=1 it=400 t=2.67s  incumbent=124006.40679
+  [af-5] run 18 ils  f=124007.33736 feas=1 it=46 t=2.32s  incumbent=124006.40679
+  [af-5] run 19 ils  f=124006.40679 feas=1 it=117 t=2.87s  incumbent=124006.40679
+== af-5-fs: method=proposed 20 runs, start=simplex, seed=2024
+  [af-5-fs] run  0 rc   f=119045.81276 feas=1 it=132 t=3.40s  incumbent=119045.81276
+  [af-5-fs] run  1 rc   f=119022.72377 feas=1 it=133 t=3.57s  incumbent=119022.72377
+  [af-5-fs] run  2 rc   f=119056.37967 feas=1 it=400 t=6.43s  incumbent=119022.72377
+  [af-5-fs] run  3 ils  f=119022.72377 feas=1 it=113 t=4.79s  incumbent=119022.72377
+  [af-5-fs] run  4 ils  f=119022.96293 feas=1 it=237 t=6.12s  incumbent=119022.72377
+  [af-5-fs] run  5 ils  f=119021.91396 feas=1 it=240 t=5.68s  incumbent=119021.91396
+  [af-5-fs] run  6 ils  f=119022.96292 feas=1 it=299 t=6.33s  incumbent=119021.91396
+  [af-5-fs] run  7 ils  f=119021.91390 feas=1 it=186 t=5.27s  incumbent=119021.91396
+  [af-5-fs] run  8 ils  f=119023.93457 feas=1 it=238 t=5.52s  incumbent=119021.91396
+  [af-5-fs] run  9 ils  f=119023.85958 feas=1 it=220 t=5.99s  incumbent=119021.91396
+  [af-5-fs] run 10 ils  f=119022.92987 feas=1 it=152 t=5.20s  incumbent=119021.91396
+  [af-5-fs] run 11 ils  f=119111.82867 feas=1 it=105 t=4.04s  incumbent=119021.91396
+  [af-5-fs] run 12 rc   f=120077.56199 feas=1 it=400 t=5.97s  incumbent=119021.91396
+  [af-5-fs] run 13 ils  f=119022.72441 feas=1 it=181 t=6.14s  incumbent=119021.91396
+  [af-5-fs] run 14 ils  f=119027.82157 feas=1 it=181 t=4.29s  incumbent=119021.91396
+  [af-5-fs] run 15 ils  f=119021.91390 feas=1 it=307 t=6.00s  incumbent=119021.91396
+  [af-5-fs] run 16 ils  f=119021.91394 feas=1 it=182 t=4.80s  incumbent=119021.91396
+  [af-5-fs] run 17 ils  f=119021.91390 feas=1 it=277 t=5.68s  incumbent=119021.91396
+  [af-5-fs] run 18 ils  f=119106.18587 feas=1 it=440 t=8.45s  incumbent=119021.91396
+  [af-5-fs] run 19 rc   f=119030.34056 feas=1 it=250 t=4.38s  incumbent=119021.91396
+== af-6-fs: method=proposed 20 runs, start=simplex, seed=2024
+  [af-6-fs] run  0 rc   f=2926.48551 feas=1 it=83 t=8.93s  incumbent=2926.48551
+  [af-6-fs] run  1 rc   f=2934.22083 feas=1 it=106 t=11.06s  incumbent=2926.48551
+  [af-6-fs] run  2 rc   f=2938.05990 feas=1 it=306 t=11.17s  incumbent=2926.48551
+  [af-6-fs] run  3 ils  f=2925.65879 feas=1 it=171 t=11.92s  incumbent=2925.65879
+  [af-6-fs] run  4 ils  f=3334.78056 feas=1 it=440 t=17.89s  incumbent=2925.65879
+  [af-6-fs] run  5 ils  f=2953.76170 feas=1 it=166 t=21.08s  incumbent=2925.65879
+  [af-6-fs] run  6 ils  f=2931.98681 feas=1 it=278 t=13.95s  incumbent=2925.65879
+  [af-6-fs] run  7 ils  f=2925.65879 feas=1 it=172 t=12.48s  incumbent=2925.65879
+  [af-6-fs] run  8 ils  f=2925.65879 feas=1 it=161 t=13.28s  incumbent=2925.65879
+  [af-6-fs] run  9 ils  f=2925.28098 feas=1 it=90 t=11.73s  incumbent=2925.28098
+  [af-6-fs] run 10 ils  f=2925.28098 feas=1 it=116 t=12.20s  incumbent=2925.28098
+  [af-6-fs] run 11 ils  f=2938.75364 feas=1 it=89 t=12.75s  incumbent=2925.28098
+  [af-6-fs] run 12 ils  f=2925.51510 feas=1 it=370 t=16.91s  incumbent=2925.28098
+  [af-6-fs] run 13 ils  f=2967.13582 feas=1 it=440 t=27.96s  incumbent=2925.28098
+  [af-6-fs] run 14 ils  f=2922.98455 feas=1 it=145 t=14.03s  incumbent=2922.98455
+  [af-6-fs] run 15 ils  f=2922.98455 feas=1 it=122 t=8.99s  incumbent=2922.98455
+  [af-6-fs] run 16 ils  f=2940.01120 feas=1 it=112 t=11.17s  incumbent=2922.98455
+  [af-6-fs] run 17 ils  f=2924.76822 feas=1 it=145 t=14.33s  incumbent=2922.98455
+  [af-6-fs] run 18 ils  f=2922.96289 feas=1 it=93 t=12.56s  incumbent=2922.96289
+  [af-6-fs] run 19 ils  f=2925.34291 feas=1 it=52 t=11.51s  incumbent=2922.96289
+== af-7: method=proposed 20 runs, start=simplex, seed=2024
+  [af-7] run  0 rc   f=151529.45933 feas=1 it=24 t=2.71s  incumbent=151529.45933
+  [af-7] run  1 rc   f=152757.05347 feas=1 it=114 t=8.66s  incumbent=151529.45933
+  [af-7] run  2 rc   f=152516.74619 feas=1 it=91 t=6.72s  incumbent=151529.45933
+  [af-7] run  3 ils  f=152536.36643 feas=1 it=58 t=6.79s  incumbent=151529.45933
+  [af-7] run  4 ils  f=152813.89069 feas=1 it=126 t=6.15s  incumbent=151529.45933
+  [af-7] run  5 ils  f=152491.92321 feas=1 it=130 t=8.97s  incumbent=151529.45933
+  [af-7] run  6 ils  f=152779.31506 feas=1 it=180 t=10.29s  incumbent=151529.45933
+  [af-7] run  7 ils  f=153386.05999 feas=1 it=162 t=6.87s  incumbent=151529.45933
+  [af-7] run  8 ils  f=152966.86013 feas=1 it=69 t=6.57s  incumbent=151529.45933
+  [af-7] run  9 rc   f=152539.59063 feas=1 it=109 t=3.66s  incumbent=151529.45933
+  [af-7] run 10 ils  f=152946.67741 feas=1 it=87 t=7.87s  incumbent=151529.45933
+  [af-7] run 11 ils  f=152646.85038 feas=1 it=169 t=7.74s  incumbent=151529.45933
+  [af-7] run 12 ils  f=152966.45937 feas=1 it=50 t=8.50s  incumbent=151529.45933
+  [af-7] run 13 ils  f=153257.67623 feas=1 it=136 t=7.88s  incumbent=151529.45933
+  [af-7] run 14 ils  f=152867.48788 feas=1 it=92 t=9.12s  incumbent=151529.45933
+  [af-7] run 15 ils  f=152946.38112 feas=1 it=43 t=7.34s  incumbent=151529.45933
+  [af-7] run 16 rc   f=152793.60760 feas=1 it=363 t=8.55s  incumbent=151529.45933
+  [af-7] run 17 ils  f=152514.85134 feas=1 it=73 t=8.12s  incumbent=151529.45933
+  [af-7] run 18 ils  f=151457.36867 feas=1 it=108 t=7.27s  incumbent=151457.36867
+  [af-7] run 19 ils  f=152826.53630 feas=1 it=56 t=9.19s  incumbent=151457.36867
+== af-7b: method=proposed 20 runs, start=simplex, seed=2024
+  [af-7b] run  0 rc   f=147525.64756 feas=1 it=47 t=7.77s  incumbent=147525.64756
+  [af-7b] run  1 rc   f=147392.44613 feas=1 it=84 t=7.76s  incumbent=147392.44613
+  [af-7b] run  2 rc   f=147629.02164 feas=1 it=32 t=6.08s  incumbent=147392.44613
+  [af-7b] run  3 ils  f=147392.44613 feas=1 it=57 t=6.99s  incumbent=147392.44613
+  [af-7b] run  4 ils  f=147406.15295 feas=1 it=88 t=10.87s  incumbent=147392.44613
+  [af-7b] run  5 ils  f=148966.06136 feas=1 it=140 t=16.33s  incumbent=147392.44613
+  [af-7b] run  6 ils  f=147392.97863 feas=1 it=65 t=11.29s  incumbent=147392.44613
+  [af-7b] run  7 ils  f=147392.44613 feas=1 it=60 t=6.17s  incumbent=147392.44613
+  [af-7b] run  8 ils  f=148978.41639 feas=1 it=136 t=10.41s  incumbent=147392.44613
+  [af-7b] run  9 rc   f=147606.88020 feas=1 it=362 t=16.86s  incumbent=147392.44613
+  [af-7b] run 10 ils  f=147365.10366 feas=1 it=152 t=12.04s  incumbent=147365.10366
+  [af-7b] run 11 ils  f=147494.12173 feas=1 it=178 t=13.97s  incumbent=147365.10366
+  [af-7b] run 12 ils  f=147305.39242 feas=1 it=147 t=13.21s  incumbent=147305.39242
+  [af-7b] run 13 ils  f=147305.39242 feas=1 it=69 t=9.68s  incumbent=147305.39242
+  [af-7b] run 14 ils  f=147305.30440 feas=1 it=61 t=6.79s  incumbent=147305.30440
+  [af-7b] run 15 ils  f=147305.30440 feas=1 it=59 t=6.31s  incumbent=147305.30440
+  [af-7b] run 16 ils  f=147305.30440 feas=1 it=65 t=5.97s  incumbent=147305.30440
+  [af-7b] run 17 ils  f=147305.30440 feas=1 it=60 t=7.45s  incumbent=147305.30440
+  [af-7b] run 18 ils  f=147305.30440 feas=1 it=61 t=8.98s  incumbent=147305.30440
+  [af-7b] run 19 ils  f=147305.30440 feas=1 it=65 t=5.67s  incumbent=147305.30440
+
+Instance    Ti[s]   %Feas   %Good      It  ETiGood        best f  | paper Ti  %Feas  %Good     It
+-------------------------------------------------------------------------------------------------
+af-1         0.55   100.0   100.0    53.6      0.6     296.44604  |      0.5  100.0   79.0   38.0
+af-3         2.27   100.0    45.0    93.7      5.1  122267.31482  |      1.3   99.2   20.0   50.6
+af-4         3.76    90.0    60.0   118.9      6.3  186446.94673  |      1.7   98.5   19.8   49.1
+af-5         2.50   100.0   100.0   111.5      2.5  124006.40679  |      1.5   99.8  100.0   53.9
+af-5-fs      5.40   100.0    95.0   233.7      5.7  119021.91390  |      1.7  100.0   99.6   61.2
+af-6-fs     13.80   100.0    60.0   182.8     23.0    2922.96289  |      6.5   95.0    5.2   47.0
+af-7         7.46   100.0    10.0   112.0     74.6  151457.36867  |      4.6   99.0   20.4   61.5
+af-7b        9.54   100.0    80.0    99.4     11.9  147305.30440  |     12.3   98.8   71.8   72.0
+== af-1: method=proposed 20 runs, start=simplex, seed=7
+  [af-1] run  0 rc   f=296.63903 feas=1 it=73 t=0.48s  incumbent=296.63903
+  [af-1] run  1 rc   f=296.63903 feas=1 it=63 t=0.47s  incumbent=296.63903
+  [af-1] run  2 rc   f=296.63442 feas=1 it=42 t=0.41s  incumbent=296.63442
+  [af-1] run  3 ils  f=296.63442 feas=1 it=35 t=0.45s  incumbent=296.63442
+  [af-1] run  4 ils  f=296.63442 feas=1 it=41 t=0.52s  incumbent=296.63442
+  [af-1] run  5 ils  f=296.63442 feas=1 it=38 t=0.52s  incumbent=296.63442
+  [af-1] run  6 ils  f=296.63442 feas=1 it=37 t=0.52s  incumbent=296.63442
+  [af-1] run  7 ils  f=296.44604 feas=1 it=57 t=0.64s  incumbent=296.44604
+  [af-1] run  8 ils  f=296.58933 feas=1 it=42 t=0.51s  incumbent=296.44604
+  [af-1] run  9 ils  f=296.44604 feas=1 it=38 t=0.53s  incumbent=296.44604
+  [af-1] run 10 ils  f=296.44604 feas=1 it=37 t=0.48s  incumbent=296.44604
+  [af-1] run 11 ils  f=296.44604 feas=1 it=39 t=0.50s  incumbent=296.44604
+  [af-1] run 12 ils  f=296.44604 feas=1 it=44 t=0.59s  incumbent=296.44604
+  [af-1] run 13 ils  f=296.44604 feas=1 it=38 t=0.46s  incumbent=296.44604
+  [af-1] run 14 rc   f=296.63903 feas=1 it=71 t=0.50s  incumbent=296.44604
+  [af-1] run 15 ils  f=296.44604 feas=1 it=44 t=0.48s  incumbent=296.44604
+  [af-1] run 16 ils  f=296.44604 feas=1 it=39 t=0.45s  incumbent=296.44604
+  [af-1] run 17 ils  f=296.44604 feas=1 it=38 t=0.45s  incumbent=296.44604
+  [af-1] run 18 ils  f=296.44604 feas=1 it=39 t=0.47s  incumbent=296.44604
+  [af-1] run 19 ils  f=296.44604 feas=1 it=41 t=0.58s  incumbent=296.44604
+== af-3: method=proposed 20 runs, start=simplex, seed=7
+  [af-3] run  0 rc   f=123780.85908 feas=1 it=54 t=0.80s  incumbent=123780.85908
+  [af-3] run  1 rc   f=123509.43591 feas=1 it=102 t=1.16s  incumbent=123509.43591
+  [af-3] run  2 rc   f=122316.17419 feas=1 it=53 t=1.41s  incumbent=122316.17419
+  [af-3] run  3 ils  f=122267.31483 feas=1 it=40 t=2.14s  incumbent=122267.31483
+  [af-3] run  4 ils  f=123436.39743 feas=1 it=44 t=2.59s  incumbent=122267.31483
+  [af-3] run  5 ils  f=122269.38866 feas=1 it=58 t=2.87s  incumbent=122267.31483
+  [af-3] run  6 ils  f=123437.80104 feas=1 it=41 t=2.39s  incumbent=122267.31483
+  [af-3] run  7 ils  f=122267.31483 feas=1 it=44 t=1.98s  incumbent=122267.31483
+  [af-3] run  8 ils  f=128868.28150 feas=1 it=440 t=4.33s  incumbent=122267.31483
+  [af-3] run  9 ils  f=123580.85566 feas=1 it=102 t=2.10s  incumbent=122267.31483
+  [af-3] run 10 rc   f=123437.29646 feas=1 it=115 t=1.70s  incumbent=122267.31483
+  [af-3] run 11 ils  f=123775.81316 feas=1 it=55 t=1.66s  incumbent=122267.31483
+  [af-3] run 12 ils  f=123437.29629 feas=1 it=45 t=2.81s  incumbent=122267.31483
+  [af-3] run 13 ils  f=122269.38866 feas=1 it=58 t=3.09s  incumbent=122267.31483
+  [af-3] run 14 ils  f=122316.17418 feas=1 it=44 t=2.42s  incumbent=122267.31483
+  [af-3] run 15 ils  f=123454.09848 feas=1 it=43 t=2.25s  incumbent=122267.31483
+  [af-3] run 16 ils  f=122267.31483 feas=1 it=60 t=2.67s  incumbent=122267.31483
+  [af-3] run 17 rc   f=123835.32406 feas=1 it=77 t=1.22s  incumbent=122267.31483
+  [af-3] run 18 ils  f=123437.80104 feas=1 it=44 t=2.70s  incumbent=122267.31483
+  [af-3] run 19 ils  f=123452.63018 feas=1 it=52 t=2.34s  incumbent=122267.31483
+== af-4: method=proposed 20 runs, start=simplex, seed=7
+  [af-4] run  0 rc   f=187286.02366 feas=1 it=102 t=1.44s  incumbent=187286.02366
+  [af-4] run  1 rc   f=186446.94673 feas=1 it=111 t=1.09s  incumbent=186446.94673
+  [af-4] run  2 rc   f=186481.14723 feas=1 it=42 t=1.33s  incumbent=186446.94673
+  [af-4] run  3 ils  f=186446.94674 feas=1 it=77 t=3.08s  incumbent=186446.94673
+  [af-4] run  4 ils  f=186446.94673 feas=1 it=128 t=3.54s  incumbent=186446.94673
+  [af-4] run  5 ils  f=186466.86021 feas=1 it=43 t=3.14s  incumbent=186446.94673
+  [af-4] run  6 ils  f=186476.08195 feas=1 it=44 t=3.78s  incumbent=186446.94673
+  [af-4] run  7 ils  f=193261.17790 feas=0 it=143 t=132.51s  incumbent=186446.94673
+  [af-4] run  8 ils  f=186476.08188 feas=1 it=41 t=3.41s  incumbent=186446.94673
+  [af-4] run  9 rc   f=186505.06586 feas=1 it=23 t=1.46s  incumbent=186446.94673
+  [af-4] run 10 ils  f=186473.67131 feas=1 it=42 t=3.57s  incumbent=186446.94673
+  [af-4] run 11 ils  f=191625.56192 feas=0 it=75 t=24.60s  incumbent=186446.94673
+  [af-4] run 12 ils  f=186466.86021 feas=1 it=41 t=3.31s  incumbent=186446.94673
+  [af-4] run 13 ils  f=186466.86021 feas=1 it=44 t=3.83s  incumbent=186446.94673
+  [af-4] run 14 ils  f=186446.94674 feas=1 it=83 t=3.35s  incumbent=186446.94673
+  [af-4] run 15 ils  f=186466.86021 feas=1 it=44 t=3.46s  incumbent=186446.94673
+  [af-4] run 16 rc   f=187553.04022 feas=1 it=122 t=1.50s  incumbent=186446.94673
+  [af-4] run 17 ils  f=186446.94673 feas=1 it=143 t=4.97s  incumbent=186446.94673
+  [af-4] run 18 ils  f=186446.94674 feas=1 it=313 t=5.01s  incumbent=186446.94673
+  [af-4] run 19 ils  f=186466.86021 feas=1 it=40 t=3.49s  incumbent=186446.94673
+== af-5: method=proposed 20 runs, start=simplex, seed=7
+  [af-5] run  0 rc   f=124028.38447 feas=1 it=74 t=1.25s  incumbent=124028.38447
+  [af-5] run  1 rc   f=124053.54787 feas=1 it=66 t=1.19s  incumbent=124028.38447
+  [af-5] run  2 rc   f=124047.94101 feas=1 it=20 t=0.71s  incumbent=124028.38447
+  [af-5] run  3 ils  f=124083.88516 feas=1 it=59 t=3.25s  incumbent=124028.38447
+  [af-5] run  4 ils  f=124009.48203 feas=1 it=117 t=2.79s  incumbent=124009.48203
+  [af-5] run  5 ils  f=124074.32820 feas=1 it=153 t=3.58s  incumbent=124009.48203
+  [af-5] run  6 ils  f=124009.36066 feas=1 it=134 t=3.83s  incumbent=124009.36066
+  [af-5] run  7 ils  f=124006.40679 feas=1 it=59 t=2.30s  incumbent=124006.40679
+  [af-5] run  8 ils  f=124119.00714 feas=1 it=145 t=3.32s  incumbent=124006.40679
+  [af-5] run  9 ils  f=124006.43072 feas=1 it=65 t=2.30s  incumbent=124006.40679
+  [af-5] run 10 ils  f=124458.15975 feas=1 it=76 t=2.48s  incumbent=124006.40679
+  [af-5] run 11 ils  f=124009.36066 feas=1 it=116 t=3.30s  incumbent=124006.40679
+  [af-5] run 12 ils  f=124007.33736 feas=1 it=43 t=2.61s  incumbent=124006.40679
+  [af-5] run 13 ils  f=124011.61418 feas=1 it=369 t=4.48s  incumbent=124006.40679
+  [af-5] run 14 rc   f=124050.31468 feas=1 it=181 t=1.79s  incumbent=124006.40679
+  [af-5] run 15 ils  f=124007.32568 feas=1 it=115 t=2.58s  incumbent=124006.40679
+  [af-5] run 16 ils  f=124084.35692 feas=1 it=122 t=2.92s  incumbent=124006.40679
+  [af-5] run 17 ils  f=124006.43072 feas=1 it=75 t=2.41s  incumbent=124006.40679
+  [af-5] run 18 ils  f=124036.66219 feas=1 it=76 t=3.31s  incumbent=124006.40679
+  [af-5] run 19 ils  f=124006.40679 feas=1 it=108 t=2.57s  incumbent=124006.40679
+== af-5-fs: method=proposed 20 runs, start=simplex, seed=7
+  [af-5-fs] run  0 rc   f=119027.35827 feas=1 it=110 t=3.72s  incumbent=119027.35827
+  [af-5-fs] run  1 rc   f=119030.54497 feas=1 it=162 t=4.31s  incumbent=119027.35827
+  [af-5-fs] run  2 rc   f=119096.57214 feas=1 it=216 t=4.55s  incumbent=119027.35827
+  [af-5-fs] run  3 ils  f=119023.85959 feas=1 it=261 t=5.37s  incumbent=119023.85959
+  [af-5-fs] run  4 ils  f=119111.82867 feas=1 it=63 t=3.80s  incumbent=119023.85959
+  [af-5-fs] run  5 ils  f=119022.72441 feas=1 it=107 t=3.67s  incumbent=119022.72441
+  [af-5-fs] run  6 ils  f=119021.91393 feas=1 it=240 t=5.64s  incumbent=119021.91393
+  [af-5-fs] run  7 ils  f=119036.82685 feas=1 it=440 t=6.01s  incumbent=119021.91393
+  [af-5-fs] run  8 ils  f=119023.65859 feas=1 it=440 t=7.13s  incumbent=119021.91393
+  [af-5-fs] run  9 ils  f=119021.91391 feas=1 it=268 t=6.90s  incumbent=119021.91393
+  [af-5-fs] run 10 ils  f=119021.91389 feas=1 it=193 t=5.55s  incumbent=119021.91393
+  [af-5-fs] run 11 ils  f=119035.92295 feas=1 it=223 t=5.60s  incumbent=119021.91393
+  [af-5-fs] run 12 ils  f=119032.29770 feas=1 it=440 t=6.09s  incumbent=119021.91393
+  [af-5-fs] run 13 rc   f=119024.81317 feas=1 it=400 t=4.92s  incumbent=119021.91393
+  [af-5-fs] run 14 ils  f=119022.96293 feas=1 it=234 t=5.18s  incumbent=119021.91393
+  [af-5-fs] run 15 ils  f=119021.91391 feas=1 it=242 t=5.32s  incumbent=119021.91393
+  [af-5-fs] run 16 ils  f=119022.72441 feas=1 it=95 t=4.51s  incumbent=119021.91393
+  [af-5-fs] run 17 ils  f=119028.17838 feas=1 it=112 t=4.91s  incumbent=119021.91393
+  [af-5-fs] run 18 ils  f=119022.72441 feas=1 it=109 t=4.06s  incumbent=119021.91393
+  [af-5-fs] run 19 ils  f=119021.91390 feas=1 it=167 t=4.40s  incumbent=119021.91393
+== af-6-fs: method=proposed 20 runs, start=simplex, seed=7
+  [af-6-fs] run  0 rc   f=2929.70089 feas=1 it=47 t=8.35s  incumbent=2929.70089
+  [af-6-fs] run  1 rc   f=2949.34418 feas=1 it=139 t=8.95s  incumbent=2929.70089
+  [af-6-fs] run  2 rc   f=2929.50352 feas=1 it=68 t=7.12s  incumbent=2929.50352
+  [af-6-fs] run  3 ils  f=2928.61328 feas=1 it=67 t=11.16s  incumbent=2928.61328
+  [af-6-fs] run  4 ils  f=3061.74637 feas=1 it=440 t=24.96s  incumbent=2928.61328
+  [af-6-fs] run  5 ils  f=2930.68596 feas=1 it=169 t=12.68s  incumbent=2928.61328
+  [af-6-fs] run  6 ils  f=2931.53901 feas=1 it=398 t=21.59s  incumbent=2928.61328
+  [af-6-fs] run  7 ils  f=2928.45894 feas=1 it=68 t=10.86s  incumbent=2928.45894
+  [af-6-fs] run  8 ils  f=2928.45894 feas=1 it=49 t=9.44s  incumbent=2928.45894
+  [af-6-fs] run  9 ils  f=2937.16260 feas=1 it=115 t=12.03s  incumbent=2928.45894
+  [af-6-fs] run 10 ils  f=2929.07764 feas=1 it=76 t=10.51s  incumbent=2928.45894
+  [af-6-fs] run 11 ils  f=2956.37102 feas=1 it=299 t=22.04s  incumbent=2928.45894
+  [af-6-fs] run 12 ils  f=2929.50352 feas=1 it=98 t=13.07s  incumbent=2928.45894
+  [af-6-fs] run 13 ils  f=2927.53351 feas=1 it=59 t=10.64s  incumbent=2927.53351
+  [af-6-fs] run 14 ils  f=2937.37069 feas=1 it=44 t=11.78s  incumbent=2927.53351
+  [af-6-fs] run 15 ils  f=2953.76170 feas=1 it=73 t=15.69s  incumbent=2927.53351
+  [af-6-fs] run 16 ils  f=2922.82145 feas=1 it=62 t=10.90s  incumbent=2922.82145
+  [af-6-fs] run 17 ils  f=2922.96289 feas=1 it=95 t=11.06s  incumbent=2922.82145
+  [af-6-fs] run 18 ils  f=2922.64418 feas=1 it=65 t=8.81s  incumbent=2922.64418
+  [af-6-fs] run 19 ils  f=2934.76619 feas=1 it=350 t=18.24s  incumbent=2922.64418
+== af-7: method=proposed 20 runs, start=simplex, seed=7
+  [af-7] run  0 rc   f=152549.96991 feas=1 it=144 t=4.31s  incumbent=152549.96991
+  [af-7] run  1 rc   f=151968.69935 feas=1 it=38 t=2.66s  incumbent=151968.69935
+  [af-7] run  2 rc   f=152521.70905 feas=1 it=104 t=4.37s  incumbent=151968.69935
+  [af-7] run  3 ils  f=151953.59714 feas=1 it=42 t=7.46s  incumbent=151953.59714
+  [af-7] run  4 ils  f=151953.98525 feas=1 it=48 t=7.18s  incumbent=151953.59714
+  [af-7] run  5 ils  f=151391.43938 feas=1 it=191 t=9.45s  incumbent=151391.43938
+  [af-7] run  6 ils  f=152525.56744 feas=1 it=232 t=11.16s  incumbent=151391.43938
+  [af-7] run  7 ils  f=152532.38771 feas=1 it=155 t=10.01s  incumbent=151391.43938
+  [af-7] run  8 ils  f=152733.75113 feas=1 it=440 t=12.38s  incumbent=151391.43938
+  [af-7] run  9 ils  f=151453.17110 feas=1 it=69 t=7.92s  incumbent=151391.43938
+  [af-7] run 10 ils  f=151946.39340 feas=1 it=48 t=9.21s  incumbent=151391.43938
+  [af-7] run 11 ils  f=152514.85134 feas=1 it=92 t=8.89s  incumbent=151391.43938
+  [af-7] run 12 rc   f=153201.35392 feas=1 it=138 t=3.73s  incumbent=151391.43938
+  [af-7] run 13 ils  f=151793.56527 feas=1 it=107 t=10.87s  incumbent=151391.43938
+  [af-7] run 14 ils  f=152829.75427 feas=1 it=251 t=11.94s  incumbent=151391.43938
+  [af-7] run 15 ils  f=152532.38773 feas=1 it=189 t=9.27s  incumbent=151391.43938
+  [af-7] run 16 ils  f=151457.36867 feas=1 it=89 t=7.61s  incumbent=151391.43938
+  [af-7] run 17 ils  f=151391.62952 feas=1 it=122 t=9.87s  incumbent=151391.43938
+  [af-7] run 18 ils  f=151392.53780 feas=1 it=166 t=11.30s  incumbent=151391.43938
+  [af-7] run 19 rc   f=153823.73417 feas=1 it=186 t=5.97s  incumbent=151391.43938
+== af-7b: method=proposed 20 runs, start=simplex, seed=7
+  [af-7b] run  0 rc   f=147677.32755 feas=1 it=36 t=4.18s  incumbent=147677.32755
+  [af-7b] run  1 rc   f=147451.19784 feas=1 it=25 t=6.74s  incumbent=147451.19784
+  [af-7b] run  2 rc   f=147509.60274 feas=1 it=34 t=10.42s  incumbent=147451.19784
+  [af-7b] run  3 ils  f=147448.14393 feas=1 it=39 t=8.27s  incumbent=147448.14393
+  [af-7b] run  4 ils  f=147634.25325 feas=1 it=102 t=13.33s  incumbent=147448.14393
+  [af-7b] run  5 ils  f=147448.14393 feas=1 it=46 t=8.99s  incumbent=147448.14393
+  [af-7b] run  6 ils  f=147448.14393 feas=1 it=42 t=7.11s  incumbent=147448.14393
+  [af-7b] run  7 ils  f=147469.83396 feas=1 it=54 t=7.90s  incumbent=147448.14393
+  [af-7b] run  8 ils  f=149115.94510 feas=1 it=194 t=15.29s  incumbent=147448.14393
+  [af-7b] run  9 ils  f=147448.14393 feas=1 it=42 t=9.50s  incumbent=147448.14393
+  [af-7b] run 10 rc   f=147532.43982 feas=1 it=86 t=12.45s  incumbent=147448.14393
+  [af-7b] run 11 ils  f=147448.14373 feas=1 it=48 t=9.41s  incumbent=147448.14393
+  [af-7b] run 12 ils  f=147448.14393 feas=1 it=44 t=9.36s  incumbent=147448.14393
+  [af-7b] run 13 ils  f=147448.14393 feas=1 it=41 t=7.04s  incumbent=147448.14393
+  [af-7b] run 14 ils  f=147448.44310 feas=1 it=49 t=13.21s  incumbent=147448.14393
+  [af-7b] run 15 ils  f=147726.65694 feas=1 it=61 t=11.44s  incumbent=147448.14393
+  [af-7b] run 16 ils  f=147448.14393 feas=1 it=42 t=7.58s  incumbent=147448.14393
+  [af-7b] run 17 rc   f=147499.99707 feas=1 it=46 t=6.47s  incumbent=147448.14393
+  [af-7b] run 18 ils  f=147451.64029 feas=1 it=103 t=7.96s  incumbent=147448.14393
+  [af-7b] run 19 ils  f=147451.19379 feas=1 it=57 t=6.28s  incumbent=147448.14393
+
+Instance    Ti[s]   %Feas   %Good      It  ETiGood        best f  | paper Ti  %Feas  %Good     It
+-------------------------------------------------------------------------------------------------
+af-1         0.50   100.0   100.0    44.8      0.5     296.44604  |      0.5  100.0   79.0   38.0
+af-3         2.23   100.0    35.0    78.5      6.4  122267.31483  |      1.3   99.2   20.0   50.6
+af-4        10.60    90.0    55.0    85.0     19.3  186446.94673  |      1.7   98.5   19.8   49.1
+af-5         2.65   100.0    95.0   108.7      2.8  124006.40679  |      1.5   99.8  100.0   53.9
+af-5-fs      5.08   100.0   100.0   226.1      5.1  119021.91389  |      1.7  100.0   99.6   61.2
+af-6-fs     13.00   100.0    15.0   139.1     86.7    2922.64418  |      6.5   95.0    5.2   47.0
+af-7         8.28   100.0    25.0   142.6     33.1  151391.43938  |      4.6   99.0   20.4   61.5
+af-7b        9.15   100.0    80.0    59.5     11.4  147448.14373  |     12.3   98.8   71.8   72.0
+== af-1: method=abl_rcstart 20 runs, start=simplex, seed=12345
+  [af-1]    2/20  %Good so far 100.0   best f 296.63903   elapsed    0.8s
+  [af-1]    4/20  %Good so far 100.0   best f 296.45139   elapsed    1.7s
+  [af-1]    6/20  %Good so far 100.0   best f 296.45139   elapsed    2.4s
+  [af-1]    8/20  %Good so far  87.5   best f 296.45139   elapsed    3.7s
+  [af-1]   10/20  %Good so far  80.0   best f 296.45139   elapsed    4.4s
+  [af-1]   12/20  %Good so far  83.3   best f 296.44604   elapsed    5.3s
+  [af-1]   14/20  %Good so far  85.7   best f 296.44604   elapsed    5.9s
+  [af-1]   16/20  %Good so far  87.5   best f 296.44604   elapsed    6.8s
+  [af-1]   18/20  %Good so far  88.9   best f 296.44604   elapsed    7.6s
+  [af-1]   20/20  %Good so far  90.0   best f 296.44604   elapsed    8.3s
+== af-3: method=abl_rcstart 20 runs, start=simplex, seed=12345
+  [af-3]    2/20  %Good so far   0.0   best f 123769.08674   elapsed    1.9s
+  [af-3]    4/20  %Good so far   0.0   best f 123436.39322   elapsed    3.5s
+  [af-3]    6/20  %Good so far   0.0   best f 123436.39322   elapsed    6.4s
+  [af-3]    8/20  %Good so far   0.0   best f 123436.39322   elapsed   11.4s
+  [af-3]   10/20  %Good so far   0.0   best f 123436.39322   elapsed   13.5s
+  [af-3]   12/20  %Good so far   8.3   best f 122267.31476   elapsed   15.7s
+  [af-3]   14/20  %Good so far   7.1   best f 122267.31476   elapsed   17.7s
+  [af-3]   16/20  %Good so far   6.2   best f 122267.31476   elapsed   19.5s
+  [af-3]   18/20  %Good so far   5.6   best f 122267.31476   elapsed   21.8s
+  [af-3]   20/20  %Good so far   5.0   best f 122267.31476   elapsed   23.5s
+== af-4: method=abl_rcstart 20 runs, start=simplex, seed=12345
+  [af-4]    2/20  %Good so far   0.0   best f 186506.98595   elapsed    4.6s
+  [af-4]    4/20  %Good so far  25.0   best f 186446.94673   elapsed    8.7s
+  [af-4]    6/20  %Good so far  16.7   best f 186446.94673   elapsed   11.0s
+  [af-4]    8/20  %Good so far  25.0   best f 186424.13757   elapsed   12.9s
+  [af-4]   10/20  %Good so far  30.0   best f 186424.13757   elapsed   15.7s
+  [af-4]   12/20  %Good so far  41.7   best f 186424.13757   elapsed   18.5s
+  [af-4]   14/20  %Good so far  35.7   best f 186424.13757   elapsed   21.6s
+  [af-4]   16/20  %Good so far  31.2   best f 186424.13757   elapsed   23.9s
+  [af-4]   18/20  %Good so far  27.8   best f 186424.13757   elapsed   25.5s
+  [af-4]   20/20  %Good so far  25.0   best f 186424.13757   elapsed   28.6s
+== af-5: method=abl_rcstart 20 runs, start=simplex, seed=12345
+  [af-5]    2/20  %Good so far 100.0   best f 124041.00912   elapsed    3.2s
+  [af-5]    4/20  %Good so far 100.0   best f 124041.00912   elapsed    7.5s
+  [af-5]    6/20  %Good so far 100.0   best f 124033.44653   elapsed    9.5s
+  [af-5]    8/20  %Good so far 100.0   best f 124019.76629   elapsed   13.0s
+  [af-5]   10/20  %Good so far 100.0   best f 124009.36052   elapsed   17.0s
+  [af-5]   12/20  %Good so far 100.0   best f 124009.36052   elapsed   21.1s
+  [af-5]   14/20  %Good so far 100.0   best f 124009.36052   elapsed   23.3s
+  [af-5]   16/20  %Good so far 100.0   best f 124009.36052   elapsed   25.7s
+  [af-5]   18/20  %Good so far 100.0   best f 124009.36052   elapsed   29.2s
+  [af-5]   20/20  %Good so far 100.0   best f 124009.36052   elapsed   31.8s
+== af-5-fs: method=abl_rcstart 20 runs, start=simplex, seed=12345
+  [af-5-fs]    2/20  %Good so far 100.0   best f 119027.82215   elapsed   10.8s
+  [af-5-fs]    4/20  %Good so far 100.0   best f 119027.82215   elapsed   17.0s
+  [af-5-fs]    6/20  %Good so far 100.0   best f 119027.82215   elapsed   27.7s
+  [af-5-fs]    8/20  %Good so far 100.0   best f 119021.91390   elapsed   40.6s
+  [af-5-fs]   10/20  %Good so far 100.0   best f 119021.91390   elapsed   47.0s
+  [af-5-fs]   12/20  %Good so far 100.0   best f 119021.91389   elapsed   56.4s
+  [af-5-fs]   14/20  %Good so far 100.0   best f 119021.91389   elapsed   64.8s
+  [af-5-fs]   16/20  %Good so far  93.8   best f 119021.91389   elapsed   74.1s
+  [af-5-fs]   18/20  %Good so far  94.4   best f 119021.91389   elapsed   85.4s
+  [af-5-fs]   20/20  %Good so far  95.0   best f 119021.91389   elapsed   94.3s
+== af-6-fs: method=abl_rcstart 20 runs, start=simplex, seed=12345
+  [af-6-fs]    2/20  %Good so far   0.0   best f 2930.29845   elapsed   22.2s
+  [af-6-fs]    4/20  %Good so far   0.0   best f 2929.52217   elapsed   41.7s
+  [af-6-fs]    6/20  %Good so far  16.7   best f 2923.00961   elapsed   59.0s
+  [af-6-fs]    8/20  %Good so far  25.0   best f 2923.00961   elapsed  101.9s
+  [af-6-fs]   10/20  %Good so far  30.0   best f 2921.52718   elapsed  115.9s
+  [af-6-fs]   12/20  %Good so far  25.0   best f 2921.52718   elapsed  139.6s
+  [af-6-fs]   14/20  %Good so far  21.4   best f 2921.52718   elapsed  171.5s
+  [af-6-fs]   16/20  %Good so far  25.0   best f 2921.52718   elapsed  189.3s
+  [af-6-fs]   18/20  %Good so far  22.2   best f 2921.52718   elapsed  206.2s
+  [af-6-fs]   20/20  %Good so far  20.0   best f 2921.52718   elapsed  225.0s
+== af-7: method=abl_rcstart 20 runs, start=simplex, seed=12345
+  [af-7]    2/20  %Good so far   0.0   best f 152789.41502   elapsed    9.8s
+  [af-7]    4/20  %Good so far   0.0   best f 152584.48316   elapsed   17.2s
+  [af-7]    6/20  %Good so far  16.7   best f 151437.37548   elapsed   26.8s
+  [af-7]    8/20  %Good so far  12.5   best f 151437.37548   elapsed   37.5s
+  [af-7]   10/20  %Good so far  20.0   best f 151397.31540   elapsed   49.3s
+  [af-7]   12/20  %Good so far  16.7   best f 151397.31540   elapsed   59.6s
+  [af-7]   14/20  %Good so far  14.3   best f 151397.31540   elapsed   78.4s
+  [af-7]   16/20  %Good so far  12.5   best f 151397.31540   elapsed   87.8s
+  [af-7]   18/20  %Good so far  16.7   best f 151397.31540   elapsed  100.7s
+  [af-7]   20/20  %Good so far  20.0   best f 151397.31540   elapsed  109.4s
+== af-7b: method=abl_rcstart 20 runs, start=simplex, seed=12345
+  [af-7b]    2/20  %Good so far 100.0   best f 147492.32034   elapsed   19.1s
+  [af-7b]    4/20  %Good so far  75.0   best f 147487.31081   elapsed   37.0s
+  [af-7b]    6/20  %Good so far  83.3   best f 147442.41129   elapsed   60.0s
+  [af-7b]    8/20  %Good so far  87.5   best f 147381.89606   elapsed   75.8s
+  [af-7b]   10/20  %Good so far  90.0   best f 147381.89606   elapsed   86.0s
+  [af-7b]   12/20  %Good so far  91.7   best f 147381.89606   elapsed  106.9s
+  [af-7b]   14/20  %Good so far  85.7   best f 147368.88612   elapsed  131.1s
+  [af-7b]   16/20  %Good so far  87.5   best f 147368.88612   elapsed  147.8s
+  [af-7b]   18/20  %Good so far  88.9   best f 147368.88612   elapsed  166.5s
+  [af-7b]   20/20  %Good so far  90.0   best f 147368.88612   elapsed  183.9s
+
+Instance    Ti[s]   %Feas   %Good      It  ETiGood        best f  | paper Ti  %Feas  %Good     It
+-------------------------------------------------------------------------------------------------
+af-1         0.41   100.0    90.0    61.1      0.5     296.44604  |      0.5  100.0   79.0   38.0
+af-3         1.17    95.0     5.0    88.5     23.5  122267.31476  |      1.3   99.2   20.0   50.6
+af-4         1.43   100.0    25.0    85.1      5.7  186424.13757  |      1.7   98.5   19.8   49.1
+af-5         1.59   100.0   100.0   147.2      1.6  124009.36052  |      1.5   99.8  100.0   53.9
+af-5-fs      4.71   100.0    95.0   279.9      5.0  119021.91389  |      1.7  100.0   99.6   61.2
+af-6-fs     11.24   100.0    20.0   130.6     56.2    2921.52718  |      6.5   95.0    5.2   47.0
+af-7         5.46    95.0    20.0   146.1     27.3  151397.31540  |      4.6   99.0   20.4   61.5
+af-7b        9.19   100.0    90.0   146.3     10.2  147368.88612  |     12.3   98.8   71.8   72.0

@@ -1,0 +1,396 @@
+== af-1: method=baseline 20 runs, start=simplex, seed=12345
+  [af-1]    2/20  %Good so far 100.0   best f 296.45139   elapsed    0.8s
+  [af-1]    4/20  %Good so far 100.0   best f 296.44604   elapsed    1.5s
+  [af-1]    6/20  %Good so far 100.0   best f 296.44604   elapsed    2.4s
+  [af-1]    8/20  %Good so far 100.0   best f 296.44604   elapsed    3.0s
+  [af-1]   10/20  %Good so far 100.0   best f 296.44604   elapsed    3.6s
+  [af-1]   12/20  %Good so far 100.0   best f 296.44604   elapsed    4.4s
+  [af-1]   14/20  %Good so far 100.0   best f 296.44604   elapsed    5.3s
+  [af-1]   16/20  %Good so far 100.0   best f 296.44604   elapsed    5.9s
+  [af-1]   18/20  %Good so far 100.0   best f 296.44604   elapsed    7.2s
+  [af-1]   20/20  %Good so far 100.0   best f 296.44604   elapsed    8.1s
+== af-3: method=baseline 20 runs, start=simplex, seed=12345
+  [af-3]    2/20  %Good so far   0.0   best f 123437.29673   elapsed    2.1s
+  [af-3]    4/20  %Good so far   0.0   best f 123436.39322   elapsed    3.8s
+  [af-3]    6/20  %Good so far   0.0   best f 122979.56889   elapsed    6.3s
+  [af-3]    8/20  %Good so far   0.0   best f 122979.56889   elapsed    7.7s
+  [af-3]   10/20  %Good so far   0.0   best f 122979.56889   elapsed    9.9s
+  [af-3]   12/20  %Good so far   0.0   best f 122979.56889   elapsed   11.7s
+  [af-3]   14/20  %Good so far   0.0   best f 122979.56889   elapsed   13.5s
+  [af-3]   16/20  %Good so far   0.0   best f 122979.56889   elapsed   15.3s
+  [af-3]   18/20  %Good so far   0.0   best f 122979.56889   elapsed   16.9s
+  [af-3]   20/20  %Good so far   0.0   best f 122979.56889   elapsed   18.3s
+== af-4: method=baseline 20 runs, start=simplex, seed=12345
+  [af-4]    2/20  %Good so far   0.0   best f nan   elapsed    9.6s
+  [af-4]    4/20  %Good so far  25.0   best f 186446.94675   elapsed   11.2s
+  [af-4]    6/20  %Good so far  50.0   best f 186446.94675   elapsed   13.5s
+  [af-4]    8/20  %Good so far  50.0   best f 186446.94675   elapsed   15.4s
+  [af-4]   10/20  %Good so far  40.0   best f 186446.94675   elapsed   19.6s
+  [af-4]   12/20  %Good so far  33.3   best f 186446.94675   elapsed   34.2s
+  [af-4]   14/20  %Good so far  35.7   best f 186097.10172   elapsed   36.6s
+  [af-4]   16/20  %Good so far  31.2   best f 186097.10172   elapsed   42.1s
+  [af-4]   18/20  %Good so far  27.8   best f 186097.10172   elapsed   48.1s
+  [af-4]   20/20  %Good so far  25.0   best f 186097.10172   elapsed   54.3s
+== af-5: method=baseline 20 runs, start=simplex, seed=12345
+  [af-5]    2/20  %Good so far 100.0   best f 124034.46739   elapsed    3.5s
+  [af-5]    4/20  %Good so far 100.0   best f 124034.46739   elapsed    5.1s
+  [af-5]    6/20  %Good so far 100.0   best f 124019.76629   elapsed    7.3s
+  [af-5]    8/20  %Good so far 100.0   best f 124019.76629   elapsed    9.1s
+  [af-5]   10/20  %Good so far 100.0   best f 124019.76629   elapsed   12.2s
+  [af-5]   12/20  %Good so far 100.0   best f 124019.76629   elapsed   14.8s
+  [af-5]   14/20  %Good so far 100.0   best f 124019.76629   elapsed   16.9s
+  [af-5]   16/20  %Good so far 100.0   best f 124019.76629   elapsed   21.1s
+  [af-5]   18/20  %Good so far 100.0   best f 124019.76629   elapsed   24.2s
+  [af-5]   20/20  %Good so far 100.0   best f 124019.76629   elapsed   27.6s
+== af-5-fs: method=baseline 20 runs, start=simplex, seed=12345
+  [af-5-fs]    2/20  %Good so far 100.0   best f 119027.86849   elapsed    7.0s
+  [af-5-fs]    4/20  %Good so far 100.0   best f 119021.91389   elapsed   12.7s
+  [af-5-fs]    6/20  %Good so far  83.3   best f 119021.91389   elapsed   20.4s
+  [af-5-fs]    8/20  %Good so far  75.0   best f 119021.91389   elapsed   29.2s
+  [af-5-fs]   10/20  %Good so far  80.0   best f 119021.91389   elapsed   37.2s
+  [af-5-fs]   12/20  %Good so far  83.3   best f 119021.91389   elapsed   44.3s
+  [af-5-fs]   14/20  %Good so far  85.7   best f 119021.91389   elapsed   51.7s
+  [af-5-fs]   16/20  %Good so far  87.5   best f 119021.91389   elapsed   59.1s
+  [af-5-fs]   18/20  %Good so far  88.9   best f 119021.91389   elapsed   66.8s
+  [af-5-fs]   20/20  %Good so far  90.0   best f 119021.91389   elapsed   75.6s
+== af-6-fs: method=baseline 20 runs, start=simplex, seed=12345
+  [af-6-fs]    2/20  %Good so far   0.0   best f 2941.03355   elapsed   15.1s
+  [af-6-fs]    4/20  %Good so far   0.0   best f 2940.62041   elapsed   48.7s
+  [af-6-fs]    6/20  %Good so far   0.0   best f 2940.62041   elapsed   82.8s
+  [af-6-fs]    8/20  %Good so far   0.0   best f 2939.59544   elapsed  107.2s
+  [af-6-fs]   10/20  %Good so far   0.0   best f 2939.59544   elapsed  129.5s
+  [af-6-fs]   12/20  %Good so far   0.0   best f 2930.85106   elapsed  159.4s
+  [af-6-fs]   14/20  %Good so far   0.0   best f 2930.85106   elapsed  192.8s
+  [af-6-fs]   16/20  %Good so far   0.0   best f 2930.85106   elapsed  216.3s
+  [af-6-fs]   18/20  %Good so far   0.0   best f 2930.85106   elapsed  233.5s
+  [af-6-fs]   20/20  %Good so far   0.0   best f 2930.85106   elapsed  255.3s
+== af-7: method=baseline 20 runs, start=simplex, seed=12345
+  [af-7]    2/20  %Good so far   0.0   best f 153341.69077   elapsed    9.4s
+  [af-7]    4/20  %Good so far   0.0   best f 152472.09584   elapsed   24.9s
+  [af-7]    6/20  %Good so far   0.0   best f 152472.09584   elapsed   33.3s
+  [af-7]    8/20  %Good so far  12.5   best f 151452.43605   elapsed   43.5s
+  [af-7]   10/20  %Good so far  10.0   best f 151452.43605   elapsed   60.9s
+  [af-7]   12/20  %Good so far   8.3   best f 151452.43605   elapsed   70.5s
+  [af-7]   14/20  %Good so far   7.1   best f 151452.43605   elapsed   90.5s
+  [af-7]   16/20  %Good so far   6.2   best f 151452.43605   elapsed  112.9s
+  [af-7]   18/20  %Good so far   5.6   best f 151452.43605   elapsed  122.2s
+  [af-7]   20/20  %Good so far   5.0   best f 151452.43605   elapsed  134.0s
+== af-7b: method=baseline 20 runs, start=simplex, seed=12345
+  [af-7b]    2/20  %Good so far 100.0   best f 147400.99108   elapsed   16.2s
+  [af-7b]    4/20  %Good so far  75.0   best f 147400.99108   elapsed   33.4s
+  [af-7b]    6/20  %Good so far  50.0   best f 147400.99108   elapsed   65.5s
+  [af-7b]    8/20  %Good so far  50.0   best f 147400.99108   elapsed   84.9s
+  [af-7b]   10/20  %Good so far  60.0   best f 147400.99108   elapsed  119.5s
+  [af-7b]   12/20  %Good so far  66.7   best f 147376.92117   elapsed  139.5s
+  [af-7b]   14/20  %Good so far  71.4   best f 147318.56602   elapsed  152.0s
+  [af-7b]   16/20  %Good so far  62.5   best f 147318.56602   elapsed  169.7s
+  [af-7b]   18/20  %Good so far  66.7   best f 147318.56602   elapsed  184.8s
+  [af-7b]   20/20  %Good so far  70.0   best f 147318.56602   elapsed  209.1s
+
+Instance    Ti[s]   %Feas   %Good      It  ETiGood        best f  | paper Ti  %Feas  %Good     It
+-------------------------------------------------------------------------------------------------
+af-1         0.39   100.0   100.0    72.5      0.4     296.44604  |      0.5  100.0   79.0   38.0
+af-3         0.90   100.0     0.0    48.2      inf  122979.56889  |      1.3   99.2   20.0   50.6
+af-4         2.70    60.0    25.0    77.3     10.8  186097.10172  |      1.7   98.5   19.8   49.1
+af-5         1.37   100.0   100.0   139.2      1.4  124019.76629  |      1.5   99.8  100.0   53.9
+af-5-fs      3.76    90.0    90.0   250.8      4.2  119021.91389  |      1.7  100.0   99.6   61.2
+af-6-fs     12.73    90.0     0.0   199.1      inf    2930.85106  |      6.5   95.0    5.2   47.0
+af-7         6.68    75.0     5.0   188.0    133.5  151452.43605  |      4.6   99.0   20.4   61.5
+af-7b       10.42    95.0    70.0   137.0     14.9  147318.56602  |     12.3   98.8   71.8   72.0
+== af-1: method=baseline 20 runs, start=simplex, seed=2024
+  [af-1]    2/20  %Good so far 100.0   best f 296.45139   elapsed    0.7s
+  [af-1]    4/20  %Good so far 100.0   best f 296.45139   elapsed    1.4s
+  [af-1]    6/20  %Good so far 100.0   best f 296.45139   elapsed    2.2s
+  [af-1]    8/20  %Good so far 100.0   best f 296.44604   elapsed    3.3s
+  [af-1]   10/20  %Good so far 100.0   best f 296.44604   elapsed    4.0s
+  [af-1]   12/20  %Good so far 100.0   best f 296.44604   elapsed    4.9s
+  [af-1]   14/20  %Good so far 100.0   best f 296.44604   elapsed    5.8s
+  [af-1]   16/20  %Good so far 100.0   best f 296.44604   elapsed    6.5s
+  [af-1]   18/20  %Good so far 100.0   best f 296.44604   elapsed    7.2s
+  [af-1]   20/20  %Good so far 100.0   best f 296.44604   elapsed    8.9s
+== af-3: method=baseline 20 runs, start=simplex, seed=2024
+  [af-3]    2/20  %Good so far   0.0   best f 123445.51059   elapsed    2.7s
+  [af-3]    4/20  %Good so far   0.0   best f 123437.80104   elapsed    4.4s
+  [af-3]    6/20  %Good so far   0.0   best f 123437.80104   elapsed    5.8s
+  [af-3]    8/20  %Good so far   0.0   best f 123437.80104   elapsed    7.4s
+  [af-3]   10/20  %Good so far   0.0   best f 123437.80104   elapsed    8.9s
+  [af-3]   12/20  %Good so far   0.0   best f 123437.29673   elapsed   10.6s
+  [af-3]   14/20  %Good so far   0.0   best f 123437.29673   elapsed   12.2s
+  [af-3]   16/20  %Good so far   0.0   best f 123437.29673   elapsed   16.1s
+  [af-3]   18/20  %Good so far   0.0   best f 123437.29673   elapsed   19.3s
+  [af-3]   20/20  %Good so far   0.0   best f 123437.29673   elapsed   20.9s
+== af-4: method=baseline 20 runs, start=simplex, seed=2024
+  [af-4]    2/20  %Good so far   0.0   best f 187424.97794   elapsed    2.6s
+  [af-4]    4/20  %Good so far  25.0   best f 186446.94675   elapsed    4.7s
+  [af-4]    6/20  %Good so far  16.7   best f 186446.94675   elapsed    6.9s
+  [af-4]    8/20  %Good so far  12.5   best f 186446.94675   elapsed    8.7s
+  [af-4]   10/20  %Good so far  10.0   best f 186446.94675   elapsed   14.1s
+  [af-4]   12/20  %Good so far   8.3   best f 186446.94675   elapsed   57.7s
+  [af-4]   14/20  %Good so far  14.3   best f 186446.94675   elapsed   63.5s
+  [af-4]   16/20  %Good so far  12.5   best f 186446.94675   elapsed   85.8s
+  [af-4]   18/20  %Good so far  16.7   best f 186446.94675   elapsed   88.1s
+  [af-4]   20/20  %Good so far  20.0   best f 186446.94675   elapsed   92.3s
+== af-5: method=baseline 20 runs, start=simplex, seed=2024
+  [af-5]    2/20  %Good so far 100.0   best f 124019.76629   elapsed    1.7s
+  [af-5]    4/20  %Good so far 100.0   best f 124019.76629   elapsed    4.8s
+  [af-5]    6/20  %Good so far 100.0   best f 124019.76629   elapsed    7.1s
+  [af-5]    8/20  %Good so far 100.0   best f 124019.76629   elapsed    9.1s
+  [af-5]   10/20  %Good so far  90.0   best f 124019.76629   elapsed   13.3s
+  [af-5]   12/20  %Good so far  91.7   best f 124019.76629   elapsed   15.9s
+  [af-5]   14/20  %Good so far  92.9   best f 124007.32568   elapsed   18.3s
+  [af-5]   16/20  %Good so far  93.8   best f 124007.32568   elapsed   20.4s
+  [af-5]   18/20  %Good so far  94.4   best f 124007.32568   elapsed   23.3s
+  [af-5]   20/20  %Good so far  95.0   best f 124007.32568   elapsed   25.5s
+== af-5-fs: method=baseline 20 runs, start=simplex, seed=2024
+  [af-5-fs]    2/20  %Good so far 100.0   best f 119021.91395   elapsed    9.7s
+  [af-5-fs]    4/20  %Good so far  75.0   best f 119021.91395   elapsed   16.7s
+  [af-5-fs]    6/20  %Good so far  66.7   best f 119021.91395   elapsed   22.7s
+  [af-5-fs]    8/20  %Good so far  75.0   best f 119021.91391   elapsed   31.6s
+  [af-5-fs]   10/20  %Good so far  80.0   best f 119021.91391   elapsed   41.2s
+  [af-5-fs]   12/20  %Good so far  75.0   best f 119021.91391   elapsed   51.3s
+  [af-5-fs]   14/20  %Good so far  78.6   best f 119021.91391   elapsed   56.3s
+  [af-5-fs]   16/20  %Good so far  75.0   best f 119021.91391   elapsed   64.1s
+  [af-5-fs]   18/20  %Good so far  72.2   best f 119021.91391   elapsed   72.9s
+  [af-5-fs]   20/20  %Good so far  70.0   best f 119021.91391   elapsed   82.2s
+== af-6-fs: method=baseline 20 runs, start=simplex, seed=2024
+  [af-6-fs]    2/20  %Good so far   0.0   best f 2952.81777   elapsed   18.2s
+  [af-6-fs]    4/20  %Good so far   0.0   best f 2945.88136   elapsed   41.3s
+  [af-6-fs]    6/20  %Good so far   0.0   best f 2940.89911   elapsed   75.7s
+  [af-6-fs]    8/20  %Good so far   0.0   best f 2940.89911   elapsed   92.3s
+  [af-6-fs]   10/20  %Good so far   0.0   best f 2940.89911   elapsed  106.6s
+  [af-6-fs]   12/20  %Good so far   0.0   best f 2940.89911   elapsed  130.4s
+  [af-6-fs]   14/20  %Good so far   0.0   best f 2939.66807   elapsed  148.1s
+  [af-6-fs]   16/20  %Good so far   0.0   best f 2939.59544   elapsed  166.1s
+  [af-6-fs]   18/20  %Good so far   0.0   best f 2939.59544   elapsed  193.6s
+  [af-6-fs]   20/20  %Good so far   0.0   best f 2930.01028   elapsed  222.3s
+== af-7: method=baseline 20 runs, start=simplex, seed=2024
+  [af-7]    2/20  %Good so far   0.0   best f 152480.45101   elapsed   16.0s
+  [af-7]    4/20  %Good so far   0.0   best f 152480.45101   elapsed   37.7s
+  [af-7]    6/20  %Good so far   0.0   best f 152480.45101   elapsed   58.3s
+  [af-7]    8/20  %Good so far   0.0   best f 152480.45101   elapsed   80.0s
+  [af-7]   10/20  %Good so far  10.0   best f 151445.58938   elapsed   97.6s
+  [af-7]   12/20  %Good so far   8.3   best f 151445.58938   elapsed  104.7s
+  [af-7]   14/20  %Good so far  14.3   best f 151445.58938   elapsed  114.5s
+  [af-7]   16/20  %Good so far  12.5   best f 151445.58938   elapsed  145.3s
+  [af-7]   18/20  %Good so far  11.1   best f 151445.58938   elapsed  155.5s
+  [af-7]   20/20  %Good so far  10.0   best f 151445.58938   elapsed  170.0s
+== af-7b: method=baseline 20 runs, start=simplex, seed=2024
+  [af-7b]    2/20  %Good so far   0.0   best f 147683.83793   elapsed   19.3s
+  [af-7b]    4/20  %Good so far  25.0   best f 147404.73992   elapsed   38.8s
+  [af-7b]    6/20  %Good so far  33.3   best f 147404.73992   elapsed   68.4s
+  [af-7b]    8/20  %Good so far  50.0   best f 147404.73992   elapsed   92.1s
+  [af-7b]   10/20  %Good so far  50.0   best f 147404.73992   elapsed  110.8s
+  [af-7b]   12/20  %Good so far  50.0   best f 147378.77796   elapsed  145.9s
+  [af-7b]   14/20  %Good so far  57.1   best f 147378.77796   elapsed  167.2s
+  [af-7b]   16/20  %Good so far  62.5   best f 147378.77796   elapsed  187.7s
+  [af-7b]   18/20  %Good so far  66.7   best f 147337.55613   elapsed  202.3s
+  [af-7b]   20/20  %Good so far  70.0   best f 147337.55613   elapsed  215.5s
+
+Instance    Ti[s]   %Feas   %Good      It  ETiGood        best f  | paper Ti  %Feas  %Good     It
+-------------------------------------------------------------------------------------------------
+af-1         0.43   100.0   100.0    84.6      0.4     296.44604  |      0.5  100.0   79.0   38.0
+af-3         1.03    95.0     0.0    83.1      inf  123437.29673  |      1.3   99.2   20.0   50.6
+af-4         4.60    80.0    20.0   113.6     23.0  186446.94675  |      1.7   98.5   19.8   49.1
+af-5         1.27    95.0    95.0   113.2      1.3  124007.32568  |      1.5   99.8  100.0   53.9
+af-5-fs      4.09    70.0    70.0   281.2      5.8  119021.91391  |      1.7  100.0   99.6   61.2
+af-6-fs     11.08    90.0     0.0   177.5      inf    2930.01028  |      6.5   95.0    5.2   47.0
+af-7         8.48    60.0    10.0   242.8     84.8  151445.58938  |      4.6   99.0   20.4   61.5
+af-7b       10.74    95.0    70.0   160.4     15.3  147337.55613  |     12.3   98.8   71.8   72.0
+== af-1: method=baseline 20 runs, start=simplex, seed=7
+  [af-1]    2/20  %Good so far 100.0   best f 296.45139   elapsed    1.0s
+  [af-1]    4/20  %Good so far 100.0   best f 296.45139   elapsed    1.9s
+  [af-1]    6/20  %Good so far 100.0   best f 296.45139   elapsed    2.7s
+  [af-1]    8/20  %Good so far 100.0   best f 296.45139   elapsed    3.7s
+  [af-1]   10/20  %Good so far 100.0   best f 296.44604   elapsed    4.5s
+  [af-1]   12/20  %Good so far 100.0   best f 296.44604   elapsed    5.2s
+  [af-1]   14/20  %Good so far 100.0   best f 296.44604   elapsed    5.8s
+  [af-1]   16/20  %Good so far 100.0   best f 296.44604   elapsed    6.5s
+  [af-1]   18/20  %Good so far 100.0   best f 296.44604   elapsed    7.5s
+  [af-1]   20/20  %Good so far 100.0   best f 296.44604   elapsed    8.2s
+== af-3: method=baseline 20 runs, start=simplex, seed=7
+  [af-3]    2/20  %Good so far  50.0   best f 122316.17419   elapsed    2.2s
+  [af-3]    4/20  %Good so far  25.0   best f 122316.17419   elapsed    3.9s
+  [af-3]    6/20  %Good so far  16.7   best f 122316.17419   elapsed    7.5s
+  [af-3]    8/20  %Good so far  12.5   best f 122316.17419   elapsed   10.1s
+  [af-3]   10/20  %Good so far  10.0   best f 122316.17419   elapsed   12.4s
+  [af-3]   12/20  %Good so far   8.3   best f 122316.17419   elapsed   14.5s
+  [af-3]   14/20  %Good so far   7.1   best f 122316.17419   elapsed   15.8s
+  [af-3]   16/20  %Good so far   6.2   best f 122316.17419   elapsed   17.5s
+  [af-3]   18/20  %Good so far   5.6   best f 122316.17419   elapsed   20.0s
+  [af-3]   20/20  %Good so far   5.0   best f 122316.17419   elapsed   22.5s
+== af-4: method=baseline 20 runs, start=simplex, seed=7
+  [af-4]    2/20  %Good so far  50.0   best f 186446.94675   elapsed    2.2s
+  [af-4]    4/20  %Good so far  25.0   best f 186446.94675   elapsed    5.7s
+  [af-4]    6/20  %Good so far  33.3   best f 186446.94675   elapsed    7.9s
+  [af-4]    8/20  %Good so far  37.5   best f 186446.94675   elapsed   11.1s
+  [af-4]   10/20  %Good so far  30.0   best f 186446.94675   elapsed   16.3s
+  [af-4]   12/20  %Good so far  25.0   best f 186446.94675   elapsed   28.9s
+  [af-4]   14/20  %Good so far  21.4   best f 186446.94675   elapsed   36.8s
+  [af-4]   16/20  %Good so far  18.8   best f 186446.94675   elapsed   45.8s
+  [af-4]   18/20  %Good so far  16.7   best f 186446.94675   elapsed   55.3s
+  [af-4]   20/20  %Good so far  15.0   best f 186446.94675   elapsed   56.6s
+== af-5: method=baseline 20 runs, start=simplex, seed=7
+  [af-5]    2/20  %Good so far 100.0   best f 124019.76629   elapsed    3.2s
+  [af-5]    4/20  %Good so far 100.0   best f 124019.76629   elapsed    4.9s
+  [af-5]    6/20  %Good so far 100.0   best f 124019.76629   elapsed    6.7s
+  [af-5]    8/20  %Good so far 100.0   best f 124019.76629   elapsed    9.2s
+  [af-5]   10/20  %Good so far 100.0   best f 124019.76629   elapsed   11.8s
+  [af-5]   12/20  %Good so far 100.0   best f 124019.76629   elapsed   15.5s
+  [af-5]   14/20  %Good so far 100.0   best f 124019.76629   elapsed   17.4s
+  [af-5]   16/20  %Good so far 100.0   best f 124019.76629   elapsed   19.3s
+  [af-5]   18/20  %Good so far 100.0   best f 124019.76629   elapsed   22.1s
+  [af-5]   20/20  %Good so far 100.0   best f 124007.32568   elapsed   24.6s
+== af-5-fs: method=baseline 20 runs, start=simplex, seed=7
+  [af-5-fs]    2/20  %Good so far 100.0   best f 119022.92987   elapsed    5.8s
+  [af-5-fs]    4/20  %Good so far  75.0   best f 119022.92987   elapsed   12.5s
+  [af-5-fs]    6/20  %Good so far  66.7   best f 119022.92987   elapsed   19.7s
+  [af-5-fs]    8/20  %Good so far  62.5   best f 119022.92987   elapsed   28.6s
+  [af-5-fs]   10/20  %Good so far  70.0   best f 119021.91389   elapsed   34.9s
+  [af-5-fs]   12/20  %Good so far  75.0   best f 119021.91389   elapsed   41.8s
+  [af-5-fs]   14/20  %Good so far  78.6   best f 119021.91389   elapsed   47.5s
+  [af-5-fs]   16/20  %Good so far  81.2   best f 119021.91389   elapsed   55.2s
+  [af-5-fs]   18/20  %Good so far  83.3   best f 119021.91389   elapsed   60.9s
+  [af-5-fs]   20/20  %Good so far  80.0   best f 119021.91389   elapsed   71.9s
+== af-6-fs: method=baseline 20 runs, start=simplex, seed=7
+  [af-6-fs]    2/20  %Good so far   0.0   best f 2972.73581   elapsed   40.5s
+  [af-6-fs]    4/20  %Good so far   0.0   best f 2971.95231   elapsed   60.9s
+  [af-6-fs]    6/20  %Good so far  16.7   best f 2925.53350   elapsed   75.2s
+  [af-6-fs]    8/20  %Good so far  12.5   best f 2925.53350   elapsed  117.4s
+  [af-6-fs]   10/20  %Good so far  10.0   best f 2925.53350   elapsed  140.9s
+  [af-6-fs]   12/20  %Good so far   8.3   best f 2925.53350   elapsed  177.8s
+  [af-6-fs]   14/20  %Good so far   7.1   best f 2925.53350   elapsed  195.0s
+  [af-6-fs]   16/20  %Good so far   6.2   best f 2925.53350   elapsed  216.2s
+  [af-6-fs]   18/20  %Good so far   5.6   best f 2925.53350   elapsed  242.9s
+  [af-6-fs]   20/20  %Good so far  10.0   best f 2925.28603   elapsed  260.9s
+== af-7: method=baseline 20 runs, start=simplex, seed=7
+  [af-7]    2/20  %Good so far   0.0   best f 151788.51592   elapsed   18.1s
+  [af-7]    4/20  %Good so far  25.0   best f 151435.30397   elapsed   24.6s
+  [af-7]    6/20  %Good so far  16.7   best f 151435.30397   elapsed   32.6s
+  [af-7]    8/20  %Good so far  12.5   best f 151435.30397   elapsed   53.5s
+  [af-7]   10/20  %Good so far  10.0   best f 151435.30397   elapsed   61.8s
+  [af-7]   12/20  %Good so far   8.3   best f 151435.30397   elapsed   76.4s
+  [af-7]   14/20  %Good so far   7.1   best f 151435.30397   elapsed   97.7s
+  [af-7]   16/20  %Good so far   6.2   best f 151435.30397   elapsed  114.7s
+  [af-7]   18/20  %Good so far  11.1   best f 151384.01351   elapsed  123.8s
+  [af-7]   20/20  %Good so far  15.0   best f 151384.01351   elapsed  133.0s
+== af-7b: method=baseline 20 runs, start=simplex, seed=7
+  [af-7b]    2/20  %Good so far 100.0   best f 147428.30497   elapsed   22.4s
+  [af-7b]    4/20  %Good so far  50.0   best f 147428.30497   elapsed   44.4s
+  [af-7b]    6/20  %Good so far  66.7   best f 147394.45522   elapsed   61.6s
+  [af-7b]    8/20  %Good so far  75.0   best f 147391.41740   elapsed   83.1s
+  [af-7b]   10/20  %Good so far  70.0   best f 147391.41740   elapsed  102.6s
+  [af-7b]   12/20  %Good so far  58.3   best f 147391.41740   elapsed  128.3s
+  [af-7b]   14/20  %Good so far  57.1   best f 147391.41740   elapsed  157.7s
+  [af-7b]   16/20  %Good so far  62.5   best f 147391.41740   elapsed  186.2s
+  [af-7b]   18/20  %Good so far  61.1   best f 147391.41740   elapsed  201.7s
+  [af-7b]   20/20  %Good so far  65.0   best f 147391.41740   elapsed  219.4s
+
+Instance    Ti[s]   %Feas   %Good      It  ETiGood        best f  | paper Ti  %Feas  %Good     It
+-------------------------------------------------------------------------------------------------
+af-1         0.40   100.0   100.0    84.2      0.4     296.44604  |      0.5  100.0   79.0   38.0
+af-3         1.11    95.0     5.0    89.0     22.3  122316.17419  |      1.3   99.2   20.0   50.6
+af-4         2.82    65.0    15.0    66.3     18.8  186446.94675  |      1.7   98.5   19.8   49.1
+af-5         1.22   100.0   100.0   102.0      1.2  124007.32568  |      1.5   99.8  100.0   53.9
+af-5-fs      3.58    80.0    80.0   231.8      4.5  119021.91389  |      1.7  100.0   99.6   61.2
+af-6-fs     13.01    90.0    10.0   211.4    130.1    2925.28603  |      6.5   95.0    5.2   47.0
+af-7         6.63    75.0    15.0   189.7     44.2  151384.01351  |      4.6   99.0   20.4   61.5
+af-7b       10.94    95.0    65.0   131.8     16.8  147391.41740  |     12.3   98.8   71.8   72.0
+== af-1: method=abl_polish 20 runs, start=simplex, seed=12345
+  [af-1]    2/20  %Good so far 100.0   best f 296.45139   elapsed    0.8s
+  [af-1]    4/20  %Good so far 100.0   best f 296.44604   elapsed    1.6s
+  [af-1]    6/20  %Good so far 100.0   best f 296.44604   elapsed    2.8s
+  [af-1]    8/20  %Good so far 100.0   best f 296.44604   elapsed    3.5s
+  [af-1]   10/20  %Good so far 100.0   best f 296.44604   elapsed    4.3s
+  [af-1]   12/20  %Good so far 100.0   best f 296.44604   elapsed    5.2s
+  [af-1]   14/20  %Good so far 100.0   best f 296.44604   elapsed    6.1s
+  [af-1]   16/20  %Good so far 100.0   best f 296.44604   elapsed    6.8s
+  [af-1]   18/20  %Good so far 100.0   best f 296.44604   elapsed    8.1s
+  [af-1]   20/20  %Good so far 100.0   best f 296.44604   elapsed    9.2s
+== af-3: method=abl_polish 20 runs, start=simplex, seed=12345
+  [af-3]    2/20  %Good so far   0.0   best f 123437.29673   elapsed    2.0s
+  [af-3]    4/20  %Good so far   0.0   best f 123436.39314   elapsed    3.9s
+  [af-3]    6/20  %Good so far   0.0   best f 122979.56889   elapsed    6.5s
+  [af-3]    8/20  %Good so far   0.0   best f 122979.56889   elapsed    8.0s
+  [af-3]   10/20  %Good so far   0.0   best f 122979.56889   elapsed   10.2s
+  [af-3]   12/20  %Good so far   0.0   best f 122979.56889   elapsed   12.0s
+  [af-3]   14/20  %Good so far   0.0   best f 122979.56889   elapsed   13.9s
+  [af-3]   16/20  %Good so far   0.0   best f 122979.56889   elapsed   16.0s
+  [af-3]   18/20  %Good so far   0.0   best f 122979.56889   elapsed   17.9s
+  [af-3]   20/20  %Good so far   0.0   best f 122979.56889   elapsed   19.4s
+== af-4: method=abl_polish 20 runs, start=simplex, seed=12345
+  [af-4]    2/20  %Good so far   0.0   best f nan   elapsed   10.6s
+  [af-4]    4/20  %Good so far  25.0   best f 186446.94673   elapsed   12.3s
+  [af-4]    6/20  %Good so far  50.0   best f 186446.94673   elapsed   14.7s
+  [af-4]    8/20  %Good so far  50.0   best f 186446.94673   elapsed   16.5s
+  [af-4]   10/20  %Good so far  40.0   best f 186446.94673   elapsed   21.4s
+  [af-4]   12/20  %Good so far  33.3   best f 186446.94673   elapsed   36.8s
+  [af-4]   14/20  %Good so far  35.7   best f 186097.10170   elapsed   39.4s
+  [af-4]   16/20  %Good so far  31.2   best f 186097.10170   elapsed   45.7s
+  [af-4]   18/20  %Good so far  27.8   best f 186097.10170   elapsed   52.6s
+  [af-4]   20/20  %Good so far  25.0   best f 186097.10170   elapsed   58.9s
+== af-5: method=abl_polish 20 runs, start=simplex, seed=12345
+  [af-5]    2/20  %Good so far 100.0   best f 124034.46738   elapsed    3.7s
+  [af-5]    4/20  %Good so far 100.0   best f 124034.46738   elapsed    5.4s
+  [af-5]    6/20  %Good so far 100.0   best f 124019.76629   elapsed    7.8s
+  [af-5]    8/20  %Good so far 100.0   best f 124019.76629   elapsed    9.7s
+  [af-5]   10/20  %Good so far 100.0   best f 124019.76629   elapsed   13.0s
+  [af-5]   12/20  %Good so far 100.0   best f 124019.76629   elapsed   16.0s
+  [af-5]   14/20  %Good so far 100.0   best f 124019.76629   elapsed   18.0s
+  [af-5]   16/20  %Good so far 100.0   best f 124019.76629   elapsed   21.9s
+  [af-5]   18/20  %Good so far 100.0   best f 124019.76629   elapsed   25.3s
+  [af-5]   20/20  %Good so far 100.0   best f 124019.76629   elapsed   28.9s
+== af-5-fs: method=abl_polish 20 runs, start=simplex, seed=12345
+  [af-5-fs]    2/20  %Good so far 100.0   best f 119027.86849   elapsed    6.5s
+  [af-5-fs]    4/20  %Good so far 100.0   best f 119021.91389   elapsed   12.6s
+  [af-5-fs]    6/20  %Good so far 100.0   best f 119021.91389   elapsed   20.4s
+  [af-5-fs]    8/20  %Good so far 100.0   best f 119021.91389   elapsed   29.3s
+  [af-5-fs]   10/20  %Good so far 100.0   best f 119021.91389   elapsed   36.6s
+  [af-5-fs]   12/20  %Good so far 100.0   best f 119021.91389   elapsed   44.4s
+  [af-5-fs]   14/20  %Good so far 100.0   best f 119021.91389   elapsed   51.9s
+  [af-5-fs]   16/20  %Good so far 100.0   best f 119021.91389   elapsed   58.6s
+  [af-5-fs]   18/20  %Good so far 100.0   best f 119021.91389   elapsed   66.0s
+  [af-5-fs]   20/20  %Good so far 100.0   best f 119021.91389   elapsed   74.5s
+== af-6-fs: method=abl_polish 20 runs, start=simplex, seed=12345
+  [af-6-fs]    2/20  %Good so far   0.0   best f 2941.03355   elapsed   14.8s
+  [af-6-fs]    4/20  %Good so far   0.0   best f 2940.62041   elapsed   49.9s
+  [af-6-fs]    6/20  %Good so far   0.0   best f 2940.62041   elapsed   86.5s
+  [af-6-fs]    8/20  %Good so far   0.0   best f 2939.59544   elapsed  112.1s
+  [af-6-fs]   10/20  %Good so far   0.0   best f 2939.59544   elapsed  134.4s
+  [af-6-fs]   12/20  %Good so far   0.0   best f 2930.85106   elapsed  164.4s
+  [af-6-fs]   14/20  %Good so far   0.0   best f 2930.85106   elapsed  197.4s
+  [af-6-fs]   16/20  %Good so far   0.0   best f 2930.85106   elapsed  221.1s
+  [af-6-fs]   18/20  %Good so far   0.0   best f 2930.85106   elapsed  238.7s
+  [af-6-fs]   20/20  %Good so far   0.0   best f 2930.85106   elapsed  261.1s
+== af-7: method=abl_polish 20 runs, start=simplex, seed=12345
+  [af-7]    2/20  %Good so far   0.0   best f 153341.69077   elapsed    9.9s
+  [af-7]    4/20  %Good so far   0.0   best f 152472.09584   elapsed   26.2s
+  [af-7]    6/20  %Good so far   0.0   best f 152472.09584   elapsed   35.2s
+  [af-7]    8/20  %Good so far  12.5   best f 151452.43605   elapsed   45.7s
+  [af-7]   10/20  %Good so far  10.0   best f 151452.43605   elapsed   63.9s
+  [af-7]   12/20  %Good so far   8.3   best f 151452.43605   elapsed   74.0s
+  [af-7]   14/20  %Good so far   7.1   best f 151452.43605   elapsed   95.9s
+  [af-7]   16/20  %Good so far   6.2   best f 151452.43605   elapsed  120.1s
+  [af-7]   18/20  %Good so far   5.6   best f 151452.43605   elapsed  130.0s
+  [af-7]   20/20  %Good so far   5.0   best f 151452.43605   elapsed  142.2s
+== af-7b: method=abl_polish 20 runs, start=simplex, seed=12345
+  [af-7b]    2/20  %Good so far 100.0   best f 147400.99108   elapsed   17.5s
+  [af-7b]    4/20  %Good so far  75.0   best f 147400.99108   elapsed   35.7s
+  [af-7b]    6/20  %Good so far  66.7   best f 147400.99108   elapsed   69.0s
+  [af-7b]    8/20  %Good so far  62.5   best f 147400.99108   elapsed   89.1s
+  [af-7b]   10/20  %Good so far  70.0   best f 147400.99108   elapsed  125.6s
+  [af-7b]   12/20  %Good so far  75.0   best f 147376.92117   elapsed  146.3s
+  [af-7b]   14/20  %Good so far  78.6   best f 147318.56602   elapsed  162.3s
+  [af-7b]   16/20  %Good so far  68.8   best f 147318.56602   elapsed  184.1s
+  [af-7b]   18/20  %Good so far  72.2   best f 147318.56602   elapsed  199.8s
+  [af-7b]   20/20  %Good so far  75.0   best f 147318.56602   elapsed  224.9s
+
+Instance    Ti[s]   %Feas   %Good      It  ETiGood        best f  | paper Ti  %Feas  %Good     It
+-------------------------------------------------------------------------------------------------
+af-1         0.46   100.0   100.0    72.5      0.5     296.44604  |      0.5  100.0   79.0   38.0
+af-3         0.97   100.0     0.0    48.2      inf  122979.56889  |      1.3   99.2   20.0   50.6
+af-4         2.94    70.0    25.0    77.3     11.8  186097.10170  |      1.7   98.5   19.8   49.1
+af-5         1.44   100.0   100.0   139.2      1.4  124019.76629  |      1.5   99.8  100.0   53.9
+af-5-fs      3.72   100.0   100.0   250.8      3.7  119021.91389  |      1.7  100.0   99.6   61.2
+af-6-fs     13.06   100.0     0.0   199.1      inf    2930.85106  |      6.5   95.0    5.2   47.0
+af-7         7.11    85.0     5.0   188.0    142.2  151452.43605  |      4.6   99.0   20.4   61.5
+af-7b       11.25   100.0    75.0   137.0     15.0  147318.56602  |     12.3   98.8   71.8   72.0
