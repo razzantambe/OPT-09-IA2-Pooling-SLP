@@ -3,7 +3,9 @@
 ## What limitation/research gap did you identify?
 In IA-1 we re-implemented Grothey & McKinnon (2023): the qq-formulation solved by trust-region filter SLP with **independent random multistart**, in Python with HiGHS instead of CPLEX (qq_model.py, slp.py). The paper itself reports that on the hard instances only 4–20% of random starts end within 0.2% of the best-known cost (af-2 19.4%, af-3 20%, af-4 19.8%, af-6 4.0%, af-6-fs 5.2%, af-7 20.4%).
 
-Running our IA-1 code (20 runs, seed 12345) on all 11 instances made the problem clearer:
+On **af-1**, the instance we validated IA-1 on, our code reached the best-known cost 296.446 in 20/20 runs (paper: 79%), so the implementation is correct and the gap is not a coding error.
+
+Running our IA-1 code (20 runs, seed 12345) on all 11 instances showed where it fails, on the larger instances:
 - af-2, af-3 and af-6-fs never reached a Good solution, and af-6-f and af-7 only once.
 - af-4, af-6-f and af-7 ended infeasible in 25–40% of the runs (SLP stuck in feasibility restoration).
 
