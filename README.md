@@ -3,7 +3,7 @@
 Introduction to Optimization Techniques (IA-2) · Dept. of IT, K. J. Somaiya College of Engineering
 Group OPT-09: Razzan Tambe (15) · Saurabh Tripathi (04) · Vivek Sharma (12)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/OPT-09-IA2-Pooling-SLP/blob/main/IA2_Demo_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/razzantambe/OPT-09-IA2-Pooling-SLP/blob/main/IA2_Demo_Colab.ipynb)
 
 This repository extends our IA-1 re-implementation of Grothey & McKinnon (2023), *On the effectiveness of sequential linear programming for the pooling problem* (Ann. Oper. Res. 322, 691–711).
 - **Baseline:** the IA-1 files `qq_model.py` and `slp.py`, unchanged (qq-formulation, filter SLP, random multistart).
