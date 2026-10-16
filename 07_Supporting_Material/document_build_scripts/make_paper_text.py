@@ -275,7 +275,7 @@ T["env_table"] = [
     ["Programming Language", "Python 3.13"],
     ["Libraries / Tools", "NumPy, SciPy 1.18 (bundled HiGHS LP solver: warm-started dual simplex in slp.py, linprog in rg_ils.py), pandas, matplotlib, openpyxl"],
     ["Hardware / Runtime", "Linux cloud container, 2 vCPU, 7 GB RAM; single-threaded runs, two experiment queues in parallel. IA-1 notebook: Windows laptop (Anaconda). Paper [1]: Xeon E5-2670 2.6 GHz, CPLEX"],
-    ["Dataset", "af-1, af-3, af-4, af-5, af-5-fs, af-6-fs, af-7, af-7b (Grothey & McKinnon [10]); the same files as IA-1"],
+    ["Dataset", "all 11 af-series instances of [1]: af-1, af-2, af-3, af-4, af-5, af-5-fs, af-6-f (= the paper's af-6), af-6-fs, af-7, af-7b, af-7b-fs (Grothey & McKinnon [10]); af-1 is the IA-1 validation instance"],
     ["Baseline Algorithm", "IA-1 code unchanged: QQModel.random_start + FilterSLP (ρ0 = 0.5, ρmax = 1, β = 0.99, γ = 0.01, σ = 0.1, ≤ 400 it.)"],
     ["Proposed Algorithm", "RG-ILS-SLP (rg_ils.py) around the same FilterSLP"],
     ["Parameter Settings", "Dirichlet noise 0.3; ≤ 6 repair rounds; elastic penalty 1e4; ≤ 10 polish rounds; 3 initial recipe starts; patience 6; 4 candidates × 10-iteration probes; α ~ U(0, 0.5); bin noise 0.05"],
@@ -306,7 +306,9 @@ T["evidence"] = [
     "Before the experiments we checked the implementation. With seed 12345 the baseline reproduces the IA-1 notebook "
     "exactly on all eight instances that the notebook ran (same %Feas, %Good, It and best objective, e.g. af-1: 100%, 72.5 iterations, "
     "296.44604). Points assembled from LP solutions satisfy every qq-equation to ~10^-14^. The af-1 diet bound "
-    "(295.93153) equals Baron's bound. Re-running the final code reproduces the stored per-run results bit-for-bit. "
+    "(295.93153) equals Baron's bound. Re-running the final code (run_all.py or the notebook IA2_Demo_Colab.ipynb) reproduces the stored per-run "
+    "costs exactly on 10 of 11 instances; on af-7b-fs, the largest, the IA-1 limit of 3 s per LP is sometimes hit on a "
+    "busier machine, so a few runs differ slightly (≤ 0.015% in cost in our test). "
     "Listings 1–3 show key code and console output. The full code, logs and per-run CSV files are in the submission "
     "folder."]
 T["code1"] = [

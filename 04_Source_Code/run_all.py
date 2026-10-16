@@ -27,7 +27,7 @@ def tasks_for(mode, instances):
     seeds = [12345] if mode in ("quick", "seed") else [12345, 2024, 7]
     runs = 5 if mode == "quick" else 20
     methods = ["baseline", "proposed"] + ([] if mode == "quick" else ["abl_polish", "abl_rcstart"])
-    heavy = [i for i in instances if i in HEAVY]
+    heavy = [i for i in HEAVY if i in instances]                 # slowest first
     light = [i for i in instances if i not in HEAVY]
     groups = ([("light", light)] if light else []) + [(h, [h]) for h in heavy]
     T = []
@@ -71,7 +71,12 @@ def main():
     logdir = os.path.join(out, "logs")
     os.makedirs(logdir, exist_ok=True)
     T = tasks_for(a.mode, a.instances)
-    print(f"mode={a.mode}: {len(T)} tasks on {a.jobs} parallel processes -> {out}", flush=True)
+    print(f"mode={a.mode}: {len(a.instances)} instances x IA-1 (baseline) and IA-2 (proposed)"
+          + ("" if a.mode == "quick" else " + 2 ablations") + f", {len(T)} tasks on {a.jobs} parallel processes", flush=True)
+    print("instances: " + ", ".join(a.instances), flush=True)
+    for m, s_, g, ins, runs in T:
+        print(f"  task {m:11s} seed {s_:<5d} {runs:2d} runs  {', '.join(ins)}", flush=True)
+    print(f"results -> {out}", flush=True)
     t0 = time.time()
     with ThreadPoolExecutor(max_workers=a.jobs) as ex:
         rcs = list(ex.map(lambda t: run_task(t, out, logdir), T))
