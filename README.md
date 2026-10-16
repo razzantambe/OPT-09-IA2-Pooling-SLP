@@ -9,18 +9,35 @@ This repository extends our IA-1 re-implementation of Grothey & McKinnon (2023),
 - **Baseline:** the IA-1 files `qq_model.py` and `slp.py`, unchanged (qq-formulation, filter SLP, random multistart).
 - **Proposed:** RG-ILS-SLP (`rg_ils.py`), which adds a diet-LP relaxation, a recipe-clustering start, product/bin LP repair and polish, and a regret-guided iterated local search with short SLP probes.
 
-## Run it online
-Click **Open in Colab** above, then choose **Runtime → Run all**. The demo takes about 2–3 min and shows the stored full results.
+## Run the whole project online (Google Colab)
+Click **Open in Colab** above, then **Runtime → Run all**. The notebook `IA2_Demo_Colab.ipynb` runs the project from start to end:
+1. gets the code and data
+2. loads all 11 instances and computes the IA-2 lower bound
+3. walks through one IA-1 run and one IA-2 run, step by step
+4. runs **IA-1 and IA-2 on all 11 instances**
+5. builds the comparison tables, significance tests, Excel workbook and graphs
+6. checks the rerun against the stored results
+7. downloads everything it produced
 
-## Run it locally
+Set `MODE` in Step 4:
+
+| MODE | runs | time |
+|---|---|---|
+| `quick` | 5 per instance | ~15 min |
+| `seed` | 20 per instance (seed 12345), plus ablations | ~1.5 h |
+| `full` | the paper's experiment, 3 seeds × 20 | ~4 h |
+
+## Run it locally (Windows / Linux / Mac)
 ```
 pip install -r 04_Source_Code/requirements.txt
 cd 04_Source_Code
-python run_experiments.py --method baseline --instances af-2 --runs 10 --seed 12345
-python run_experiments.py --method proposed --instances af-2 --runs 10 --seed 12345
-python analyze_results.py          # rebuilds 06_Results/Result_Tables.xlsx and the graphs
+python run_all.py --mode quick        # or: --mode seed / --mode full
 ```
-`04_Source_Code/run_all.sh` reproduces the full experiment: 11 instances × 3 seeds × 20 runs per method, plus the ablations. It takes about 3.5 h. See `04_Source_Code/README.md` for details.
+`run_all.py` runs every experiment (2 in parallel) and then `analyze_results.py`. The results go to `results_rerun/`: `Result_Tables.xlsx`, `Comparison_Table.pdf` and `Graphs/`. For a single comparison:
+```
+python run_experiments.py --method baseline --instances af-2 --runs 20 --seed 12345
+python run_experiments.py --method proposed --instances af-2 --runs 20 --seed 12345
+```
 
 ## Contents
 | Folder | Content |
