@@ -290,6 +290,16 @@ def comparison_pdf(c, t, fname="Comparison_Table.pdf"):
 
 
 def main():
+    global RES, GR
+    import argparse
+    ap = argparse.ArgumentParser(description="IA-2 result tables and graphs")
+    ap.add_argument("--results", default=None,
+                    help="results folder with <method>/seed<s>/runs_*.csv (default: ../06_Results)")
+    a = ap.parse_args()
+    if a.results:
+        RES = Path(a.results).resolve()
+        GR = RES / "Graphs"
+        GR.mkdir(parents=True, exist_ok=True)
     df = load()
     ss = summarise_seed(df)
     s = summarise(df, ss)
