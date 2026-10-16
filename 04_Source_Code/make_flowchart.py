@@ -52,8 +52,8 @@ y = 13.15
 A = box(y, 0.62, "Problem / input: af-series feed-mill pooling instances  (load_instance, IA-1)")
 B = box(y - 1.0, 0.82, "qq-formulation (5a)–(5h), price as extra attribute, bilinear terms μ_pm·V_mq",
         title="Baseline model — IA-1 qq_model.py (unchanged)")
-C = box(y - 2.17, 1.08, "random-multistart filter-SLP: 0% Good on af-2, af-3, af-6-fs; 5% on af-6-f, af-7;\n"
-        "only 60–75% of the runs feasible on af-4, af-6-f, af-7", fc=ORANGEF, ec=ORANGE,
+C = box(y - 2.17, 1.08, "random-multistart filter-SLP: 0% Good on af-2, af-3, af-6-fs;\n"
+        "5% on af-6-f, af-7; only 60–75% of runs feasible on af-4, af-6-f, af-7", fc=ORANGEF, ec=ORANGE,
         title="Identified limitation — IA-1 experiments")
 # proposed cluster
 top, bot = y - 2.9, 1.2
